@@ -18,6 +18,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Instalar FFmpeg para testar a montagem do vídeo
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends ffmpeg
       - name: Instalar dependência da conferência de miniaturas
         run: python -m pip install 'Pillow>=11,<13'
       - name: Conferir configuração e utilitários sem chamadas externas

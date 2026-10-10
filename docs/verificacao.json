@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-10",
+  "channel": "Fio de Lume",
+  "source_commit": "b4be56aaa03a6ababc8c5792e3a778a2052d5e55",
+  "configuration": "passed",
+  "local_document_links": "passed",
+  "image_dimensions": "passed",
+  "tests": {
+    "passed": 3,
+    "synthetic_media_only": true,
+    "covered": [
+      "image movement and video input",
+      "24 fps Full HD output",
+      "soundtrack mixing",
+      "no embedded or burned subtitles in none mode",
+      "optional SRT and ZIP integrity",
+      "preservation of existing drafts",
+      "ASS override escaping"
+    ]
+  },
+  "voice_service_tested": false,
+  "complete_episode_produced": false,
+  "assets": [
+    {
+      "file": "docs/identidade/Capa_Fio_de_Lume_16x9.png",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "bytes": 4152272
+    },
+    {
+      "file": "docs/identidade/Miniatura_Referencia_16x9.png",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "bytes": 1859437
+    },
+    {
+      "file": "docs/identidade/Perfil_Fio_de_Lume_16x9.png",
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": "16:9",
+      "bytes": 1729740
+    }
+  ]
+}

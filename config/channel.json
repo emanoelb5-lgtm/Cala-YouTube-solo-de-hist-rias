@@ -1,0 +1,131 @@
+{
+  "phase": "production",
+  "mode": "chat_command",
+  "execution": {
+    "development": "github_actions",
+    "production": "interactive_workspace",
+    "trigger": "user_message"
+  },
+  "language": "pt-BR",
+  "name": "Fio de Lume",
+  "tagline": "Histórias que continuam em você.",
+  "topic": "Histórias originais narradas de mistério, emoção, escolhas e reviravoltas; relatos reais e históricos em séries identificadas",
+  "channel_url": null,
+  "channel_id": null,
+  "video": {
+    "duration_seconds": 480,
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": "16:9",
+    "fps": 24,
+    "duration_tolerance_seconds": 30,
+    "subtitle_mode": "none"
+  },
+  "voice": {
+    "engine": "edge_tts",
+    "name": "pt-BR-ThalitaMultilingualNeural",
+    "language": "pt-BR",
+    "rate": "-3%",
+    "pitch": "+0Hz",
+    "tone": "Íntimo, expressivo e envolvente; pausas naturais, suspense sem exagero e emoção contida",
+    "requires_internet": true,
+    "allow_user_recording": true
+  },
+  "delivery": {
+    "destination": "github",
+    "repository": "emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias",
+    "episodes_directory": "videos",
+    "publication_by": "user",
+    "max_git_file_bytes": 99614720,
+    "max_video_file_bytes": 95000000,
+    "max_blob_api_file_bytes": 30000000
+  },
+  "schedule": {
+    "enabled": false,
+    "timezone": "America/Sao_Paulo",
+    "publish_times_local": null
+  },
+  "ai": {
+    "auth_mode": "chat_work",
+    "monthly_budget_brl": null,
+    "max_daily_cost_usd": null
+  },
+  "youtube": {
+    "publication_mode": "manual",
+    "automatic_upload": false,
+    "default_category_id": 24
+  },
+  "branding": {
+    "mascot": {
+      "name": "Lume",
+      "description": "Pequena lanterna flutuante de latão em pixel art, com duas asas discretas verde água e luz dourada; acompanha passagens e ilumina detalhes da história.",
+      "design_version": 1,
+      "design_reference": "docs/identidade/Perfil_Fio_de_Lume_16x9.png",
+      "participation": [
+        "iluminar objetos importantes",
+        "acompanhar transições",
+        "marcar a abertura e o encerramento"
+      ],
+      "screen_time": "Aparições breves; preservar a imersão nos momentos de tensão."
+    },
+    "palette": {
+      "navy": "#12172D",
+      "gold": "#D9A34B",
+      "parchment": "#F3E6CC",
+      "plum": "#725B80",
+      "teal": "#6EBAB2"
+    },
+    "persistent_frame": true,
+    "frame_style": "Moldura fina dourada, discreta e com área segura interna de 5%.",
+    "visual_mix": [
+      "pixel art animada com luz e profundidade",
+      "filmagens de ambiente e objetos com procedência",
+      "fotografias e arquivos em movimento quando pertinentes"
+    ],
+    "images_aspect_ratio": "16:9",
+    "channel_description": "Uma carta esquecida. Uma escolha impossível. Um encontro capaz de mudar uma vida.\n\nNo Fio de Lume, cada vídeo conta uma história do começo ao fim: mistérios, dramas humanos, reencontros e reviravoltas, narrados em português brasileiro e acompanhados de cenas em pixel art, luz, movimento e som.\n\nNossas histórias de ficção são originais e identificadas como ficção. Quando contamos um relato real ou histórico, indicamos as fontes e distinguimos fatos de reconstituições.\n\nApague um pouco o barulho do dia e venha ouvir.\n\nHistórias que continuam em você.",
+    "pixel_art_quality": "Pixel clusters definidos, paleta controlada, luz narrativa, parallax e movimentos com propósito; personagens consistentes entre cenas.",
+    "assets": {
+      "banner": "docs/identidade/Capa_Fio_de_Lume_16x9.png",
+      "profile": "docs/identidade/Perfil_Fio_de_Lume_16x9.png",
+      "thumbnail_reference": "docs/identidade/Miniatura_Referencia_16x9.png"
+    }
+  },
+  "storytelling": {
+    "default_kind": "original_fiction",
+    "allowed_kinds": [
+      "original_fiction",
+      "historical",
+      "real_account"
+    ],
+    "narrative_person": "Terceira pessoa próxima; primeira pessoa quando houver motivo narrativo.",
+    "narration_words_target": [
+      900,
+      1100
+    ],
+    "structure": [
+      "acontecimento que rompe a rotina",
+      "personagem e desejo",
+      "complicação e pistas",
+      "escolha e revelação",
+      "desfecho que resolve o conflito"
+    ],
+    "dialogue": "Diálogo breve, integrado à narração; usar a mesma voz padrão, sem caricaturas.",
+    "chapter_labels": "Gerar a partir dos tempos reais e sem revelar a solução do mistério.",
+    "caption_policy": "Sem transcrição fixa por padrão; SRT separado e opcional.",
+    "accuracy": "Ficção explicitamente identificada; relatos reais e históricos sustentados por fontes.",
+    "asset_continuity": [
+      "traços e roupas dos personagens",
+      "época e objetos",
+      "geografia e iluminação",
+      "direção do movimento"
+    ]
+  },
+  "origin": {
+    "repository": "emanoelb5-lgtm/Projeto-criador-solo-",
+    "commit": "b4be56aaa03a6ababc8c5792e3a778a2052d5e55",
+    "channel": "Quase Infinito",
+    "copied_at": "2026-10-10",
+    "copy_scope": "Base de narração, montagem, conferência e entrega; novo canal, identidade e modelos de história."
+  }
+}

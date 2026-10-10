@@ -1,0 +1,28 @@
+name: Verificar configuração
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependência da conferência de miniaturas
+        run: python -m pip install 'Pillow>=11,<13'
+      - name: Conferir configuração e utilitários sem chamadas externas
+        run: |
+          python -m compileall -q scripts
+          python scripts/check_setup.py
+          python scripts/check_project.py
+          python -m unittest discover -s tests -v

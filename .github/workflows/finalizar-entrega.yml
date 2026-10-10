@@ -1,0 +1,37 @@
+name: Finalizar entrega de vídeo
+
+on:
+  push:
+    branches: [main]
+    paths: ["videos/**/transporte/manifest.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finalizar-entrega-main
+  cancel-in-progress: false
+
+jobs:
+  finalizar:
+    if: ${{ !contains(github.event.head_commit.message, '[entrega-concluida]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Reconstituir o MP4 revisado sem recompressão
+        run: python3 scripts/restore_video_delivery.py --stage
+      - name: Disponibilizar o vídeo completo
+        run: |
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m '[entrega-concluida] Disponibiliza MP4 verificado sem alterar a qualidade'
+          git pull --rebase origin main
+          git push origin HEAD:main

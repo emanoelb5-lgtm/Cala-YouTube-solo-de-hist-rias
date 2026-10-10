@@ -16,7 +16,12 @@
       "optional SRT and ZIP integrity",
       "preservation of existing drafts",
       "ASS override escaping"
-    ]
+    ],
+    "github_actions": {
+      "passed": 3,
+      "skipped": 0,
+      "run_id": 38090327793
+    }
   },
   "voice_service_tested": false,
   "complete_episode_produced": false,
@@ -31,7 +36,7 @@
       "git_blob_sha": "420ba4c48d7b8feb01a07a78edf34ca2bce7eaa4",
       "png_decode_verified": true,
       "visual_review": "passed",
-      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Capa_Fio_de_Lume_16x9.png"
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/b628325e759eb4c014302dc147da456e3aa3cbe6/docs/identidade/Capa_Fio_de_Lume_16x9.png"
     },
     {
       "file": "docs/identidade/Miniatura_Referencia_16x9.png",
@@ -43,7 +48,7 @@
       "git_blob_sha": "394f54587770a005d38337c1284ccfc3eac86d5e",
       "png_decode_verified": true,
       "visual_review": "passed",
-      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Miniatura_Referencia_16x9.png"
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/b628325e759eb4c014302dc147da456e3aa3cbe6/docs/identidade/Miniatura_Referencia_16x9.png"
     },
     {
       "file": "docs/identidade/Perfil_Fio_de_Lume_16x9.png",
@@ -55,7 +60,7 @@
       "git_blob_sha": "ce2a60b8f4e5d6121f87508c080ba3f6fdf81d09",
       "png_decode_verified": true,
       "visual_review": "passed",
-      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Perfil_Fio_de_Lume_16x9.png"
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/b628325e759eb4c014302dc147da456e3aa3cbe6/docs/identidade/Perfil_Fio_de_Lume_16x9.png"
     }
   ],
   "remote_delivery": {
@@ -63,18 +68,22 @@
     "verified_at": "2026-10-10",
     "repository": "emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias",
     "branch": "main",
-    "verified_commit": "53abab7b4742d6b4c36a88428293e34278492c2c",
-    "verified_tree": "d070476553a23bce1d6e4b9edee366e13facd7a4",
+    "verified_commit": "b628325e759eb4c014302dc147da456e3aa3cbe6",
+    "verified_tree": "e8749695b80ef7852a87b6f38f1e264037d05a83",
     "tracked_files_verified": 35,
-    "matches_prepared_tree": true,
     "method": "Authenticated Git fetch, matching complete Git trees, PNG decoding and local document-link validation",
     "github_actions": {
       "workflow": "Verificar configuração",
-      "run_id": 38083664122,
+      "run_id": 38090327793,
       "conclusion": "success",
-      "url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/actions/runs/38083664122"
+      "url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/actions/runs/38090327793",
+      "tests_passed": 3,
+      "tests_skipped": 0,
+      "assembly_test": "passed",
+      "ffmpeg_available": true
     },
     "scope": "Channel identity, documentation, episode templates and production utilities. No complete episode produced.",
-    "next_stage": "Produce the first narrated-story episode when requested."
+    "next_stage": "Produce the first narrated-story episode when requested.",
+    "matches_local_files": true
   }
 }

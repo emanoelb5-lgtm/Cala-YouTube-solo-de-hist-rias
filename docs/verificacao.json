@@ -26,21 +26,55 @@
       "width": 2560,
       "height": 1440,
       "aspect_ratio": "16:9",
-      "bytes": 4152272
+      "bytes": 4152272,
+      "sha256": "985612aea0f7e1125f754fb730a6cff9a2ca49d4b01ffe099c1820cc6dc69c41",
+      "git_blob_sha": "420ba4c48d7b8feb01a07a78edf34ca2bce7eaa4",
+      "png_decode_verified": true,
+      "visual_review": "passed",
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Capa_Fio_de_Lume_16x9.png"
     },
     {
       "file": "docs/identidade/Miniatura_Referencia_16x9.png",
       "width": 1280,
       "height": 720,
       "aspect_ratio": "16:9",
-      "bytes": 1859437
+      "bytes": 1859437,
+      "sha256": "4bd874af602632a5c95e1458ba1b6081f347f66f73e29d591896f3b4ba6018cb",
+      "git_blob_sha": "394f54587770a005d38337c1284ccfc3eac86d5e",
+      "png_decode_verified": true,
+      "visual_review": "passed",
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Miniatura_Referencia_16x9.png"
     },
     {
       "file": "docs/identidade/Perfil_Fio_de_Lume_16x9.png",
       "width": 1920,
       "height": 1080,
       "aspect_ratio": "16:9",
-      "bytes": 1729740
+      "bytes": 1729740,
+      "sha256": "e495cbfbd0f6bc52ce0302d3cb15aab3b251b13fe64ec5e924b9aeb8f8b7a51d",
+      "git_blob_sha": "ce2a60b8f4e5d6121f87508c080ba3f6fdf81d09",
+      "png_decode_verified": true,
+      "visual_review": "passed",
+      "remote_url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/blob/53abab7b4742d6b4c36a88428293e34278492c2c/docs/identidade/Perfil_Fio_de_Lume_16x9.png"
     }
-  ]
+  ],
+  "remote_delivery": {
+    "status": "verified",
+    "verified_at": "2026-10-10",
+    "repository": "emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias",
+    "branch": "main",
+    "verified_commit": "53abab7b4742d6b4c36a88428293e34278492c2c",
+    "verified_tree": "d070476553a23bce1d6e4b9edee366e13facd7a4",
+    "tracked_files_verified": 35,
+    "matches_prepared_tree": true,
+    "method": "Authenticated Git fetch, matching complete Git trees, PNG decoding and local document-link validation",
+    "github_actions": {
+      "workflow": "Verificar configuração",
+      "run_id": 38083664122,
+      "conclusion": "success",
+      "url": "https://github.com/emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias/actions/runs/38083664122"
+    },
+    "scope": "Channel identity, documentation, episode templates and production utilities. No complete episode produced.",
+    "next_stage": "Produce the first narrated-story episode when requested."
+  }
 }

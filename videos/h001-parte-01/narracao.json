@@ -1,0 +1,14 @@
+{
+  "engine": "edge_tts",
+  "voice": "pt-BR-ThalitaMultilingualNeural",
+  "rate": "-3%",
+  "duration_seconds": 496.512,
+  "word_boundaries": 1187,
+  "text_sha256": "4549719c175216ba013a87e567144e38ed975fb3d2951b464416b2f23885ed7d",
+  "editorial_edit": {
+    "removed_source_paragraph": 7,
+    "start_seconds": 113.677666,
+    "end_seconds": 134.36279100000002,
+    "method": "sentence-boundary cut; no time stretching"
+  }
+}

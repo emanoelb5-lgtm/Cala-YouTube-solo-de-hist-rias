@@ -1,0 +1,50 @@
+{
+  "id": "h001-a-carta",
+  "title": "A carta que chegou quarenta anos atrasada",
+  "kind": "original_fiction",
+  "total_parts": 4,
+  "core_question": "Por que Elisa guardou a mala vazia e não embarcou?",
+  "parts": [
+    {
+      "number": 1,
+      "title": "O nome no bilhete",
+      "episode": "h001-parte-01",
+      "status": "produced",
+      "arc": "Uma carta traz a suspeita antiga à tona. Lia investiga o cais, encontra Joana e descobre a própria passagem.",
+      "ending_question": "Por que as duas não embarcaram?",
+      "duration_seconds": 499.75
+    },
+    {
+      "number": 2,
+      "title": "A madrugada esquecida",
+      "status": "planned",
+      "arc": "Joana reconstrói o curso, as duas passagens, a febre da menina e a busca de ajuda. Lia reconhece fragmentos de cuidado, sem culpar a criança pela escolha da mãe.",
+      "ending_question": "O que Elisa construiu depois da viagem perdida?"
+    },
+    {
+      "number": 3,
+      "title": "A turma da varanda",
+      "status": "planned",
+      "arc": "Uma folha no forro da mala liga Joana à primeira turma. As oito cadeiras e os lampiões revelam a escola de adultos na varanda. Lia procura os alunos e pede uma semana antes da venda.",
+      "ending_question": "Como decidir o futuro da casa sem apagar essa história?"
+    },
+    {
+      "number": 4,
+      "title": "Duas passagens",
+      "status": "planned",
+      "arc": "Antigos alunos trazem fotografias e lembranças concretas, incluindo manias e limites de Elisa. Lia revê a certeza de abandono e decide o destino da casa com a história conhecida. A mala recebe as passagens e a folha.",
+      "ending_question": null
+    }
+  ],
+  "continuity": [
+    "Lia nasceu em 1982 e tem 44 anos em 2026. Elisa tinha 29 anos em 1986.",
+    "A mãe morreu onze meses antes da carta. Damião morreu dez anos antes; Joana tem 60 anos.",
+    "O símbolo da estrela une bilhete, carta, barca e porta.",
+    "A carta ficou atrás da gaveta da agência; não existe sobrenatural nem carta escrita após a morte.",
+    "Damião ajudou com o bilhete da menina. Não houve amante ou plano de abandono.",
+    "A filha adoeceu na madrugada; a mãe procurou ajuda e perdeu o início do curso.",
+    "Elisa posteriormente estudou e ensinou adultos na varanda. Joana foi uma das primeiras alunas.",
+    "Não transformar Elisa em santa nem Lia em responsável por ter adoecido.",
+    "A venda não é cancelada por impulso nem o conflito resolvido por dinheiro mágico."
+  ]
+}

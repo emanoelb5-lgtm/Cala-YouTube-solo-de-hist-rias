@@ -1,0 +1,1958 @@
+{
+  "status": "defined",
+  "assembly_engine": "producao/animar.py",
+  "duration_seconds": 499.75,
+  "subtitle_mode": "none",
+  "soundtrack": "assets/trilha_ambientes.mp3",
+  "soundtrack_gain_db": -6,
+  "shots": [
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "envelope",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.08,
+        "detail": true,
+        "lume": true,
+        "index": 0,
+        "paragraph": 1,
+        "start_seconds": 0.0,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 470,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          475,
+          365
+        ],
+        "zoom": 1.7,
+        "index": 1,
+        "paragraph": 1,
+        "start_seconds": 6.5,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "envelope",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.18,
+        "detail": true,
+        "index": 2,
+        "paragraph": 1,
+        "start_seconds": 13.0,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 5.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "case_closed",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 3,
+        "paragraph": 2,
+        "start_seconds": 19.5,
+        "frames": 126,
+        "duration_seconds": 5.25
+      }
+    },
+    {
+      "asset": "assets/a05_quarto_1986.png",
+      "kind": "image",
+      "duration_seconds": 5.291666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a05_quarto_1986",
+        "actors": [
+          {
+            "name": "elisa",
+            "pose": 2,
+            "x": 850,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          },
+          {
+            "name": "child",
+            "pose": 1,
+            "x": 355,
+            "feet": 595,
+            "height": 195,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.08,
+        "flashback": true,
+        "index": 4,
+        "paragraph": 2,
+        "start_seconds": 24.75,
+        "frames": 127,
+        "duration_seconds": 5.291666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 5.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ticket",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 5,
+        "paragraph": 2,
+        "start_seconds": 30.041666666666668,
+        "frames": 126,
+        "duration_seconds": 5.25
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "drawer",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 6,
+        "paragraph": 3,
+        "start_seconds": 35.291666666666664,
+        "frames": 152,
+        "duration_seconds": 6.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 6.291666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 465,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          470,
+          355
+        ],
+        "zoom": 1.8,
+        "index": 7,
+        "paragraph": 3,
+        "start_seconds": 41.625,
+        "frames": 151,
+        "duration_seconds": 6.291666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "envelope",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 8,
+        "paragraph": 3,
+        "start_seconds": 47.916666666666664,
+        "frames": 152,
+        "duration_seconds": 6.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 7.416666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "index": 9,
+        "paragraph": 4,
+        "start_seconds": 54.25,
+        "frames": 178,
+        "duration_seconds": 7.416666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.458333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "contract",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 10,
+        "paragraph": 4,
+        "start_seconds": 61.666666666666664,
+        "frames": 179,
+        "duration_seconds": 7.458333333333333
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.416666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "keys",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 11,
+        "paragraph": 4,
+        "start_seconds": 69.125,
+        "frames": 178,
+        "duration_seconds": 7.416666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "unfold_letter",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.06,
+        "detail": true,
+        "index": 12,
+        "paragraph": 5,
+        "start_seconds": 76.54166666666667,
+        "frames": 193,
+        "duration_seconds": 8.041666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "letter",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "date": true,
+        "index": 13,
+        "paragraph": 5,
+        "start_seconds": 84.58333333333333,
+        "frames": 192,
+        "duration_seconds": 8.0
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 8.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 500,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          510,
+          360
+        ],
+        "zoom": 1.85,
+        "index": 14,
+        "paragraph": 5,
+        "start_seconds": 92.58333333333333,
+        "frames": 193,
+        "duration_seconds": 8.041666666666666
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 4.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "boat": true,
+        "index": 15,
+        "paragraph": 6,
+        "start_seconds": 100.625,
+        "frames": 105,
+        "duration_seconds": 4.375
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 4.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          365,
+          450
+        ],
+        "zoom": 1.34,
+        "index": 16,
+        "paragraph": 6,
+        "start_seconds": 105.0,
+        "frames": 104,
+        "duration_seconds": 4.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 4.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 550,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          570,
+          410
+        ],
+        "zoom": 1.76,
+        "index": 17,
+        "paragraph": 6,
+        "start_seconds": 109.33333333333333,
+        "frames": 105,
+        "duration_seconds": 4.375
+      }
+    },
+    {
+      "asset": "assets/a05_quarto_1986.png",
+      "kind": "image",
+      "duration_seconds": 7.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a05_quarto_1986",
+        "actors": [
+          {
+            "name": "elisa",
+            "pose": 2,
+            "x": 850,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          900,
+          440
+        ],
+        "zoom": 1.17,
+        "flashback": true,
+        "index": 18,
+        "paragraph": 7,
+        "start_seconds": 113.70833333333333,
+        "frames": 169,
+        "duration_seconds": 7.041666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "case_open",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 19,
+        "paragraph": 7,
+        "start_seconds": 120.75,
+        "frames": 168,
+        "duration_seconds": 7.0
+      }
+    },
+    {
+      "asset": "assets/a05_quarto_1986.png",
+      "kind": "image",
+      "duration_seconds": 7.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a05_quarto_1986",
+        "actors": [
+          {
+            "name": "child",
+            "pose": 1,
+            "x": 330,
+            "feet": 600,
+            "height": 195,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.14,
+        "flashback": true,
+        "index": 20,
+        "paragraph": 7,
+        "start_seconds": 127.75,
+        "frames": 169,
+        "duration_seconds": 7.041666666666667
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 5.791666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 555,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          560,
+          390
+        ],
+        "zoom": 1.92,
+        "index": 21,
+        "paragraph": 8,
+        "start_seconds": 134.79166666666666,
+        "frames": 139,
+        "duration_seconds": 5.791666666666667
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 5.75,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          220,
+          305
+        ],
+        "zoom": 1.26,
+        "index": 22,
+        "paragraph": 8,
+        "start_seconds": 140.58333333333334,
+        "frames": 138,
+        "duration_seconds": 5.75
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 5.791666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 0,
+            "x": 520,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.12,
+        "index": 23,
+        "paragraph": 8,
+        "start_seconds": 146.33333333333334,
+        "frames": 139,
+        "duration_seconds": 5.791666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "vibrate": true,
+        "index": 24,
+        "paragraph": 9,
+        "start_seconds": 152.125,
+        "frames": 213,
+        "duration_seconds": 8.875
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 8.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 0,
+            "x": 520,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          535,
+          365
+        ],
+        "zoom": 1.72,
+        "index": 25,
+        "paragraph": 9,
+        "start_seconds": 161.0,
+        "frames": 213,
+        "duration_seconds": 8.875
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 8.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 540,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          550,
+          400
+        ],
+        "zoom": 1.9,
+        "index": 26,
+        "paragraph": 9,
+        "start_seconds": 169.875,
+        "frames": 213,
+        "duration_seconds": 8.875
+      }
+    },
+    {
+      "asset": "assets/a01_casa_interior.png",
+      "kind": "image",
+      "duration_seconds": 7.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a01_casa_interior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 3,
+            "x": 730,
+            "feet": 685,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          840,
+          440
+        ],
+        "zoom": 1.12,
+        "index": 27,
+        "paragraph": 10,
+        "start_seconds": 178.75,
+        "frames": 176,
+        "duration_seconds": 7.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "case_closed",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.14,
+        "detail": true,
+        "index": 28,
+        "paragraph": 10,
+        "start_seconds": 186.08333333333334,
+        "frames": 176,
+        "duration_seconds": 7.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "opening_case",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 29,
+        "paragraph": 10,
+        "start_seconds": 193.41666666666666,
+        "frames": 176,
+        "duration_seconds": 7.333333333333333
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "case_open",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 30,
+        "paragraph": 11,
+        "start_seconds": 200.75,
+        "frames": 198,
+        "duration_seconds": 8.25
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.208333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ticket",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "ticket_time": true,
+        "index": 31,
+        "paragraph": 11,
+        "start_seconds": 209.0,
+        "frames": 197,
+        "duration_seconds": 8.208333333333334
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "letter_ticket",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 32,
+        "paragraph": 11,
+        "start_seconds": 217.20833333333334,
+        "frames": 198,
+        "duration_seconds": 8.25
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "vibrate": true,
+        "index": 33,
+        "paragraph": 12,
+        "start_seconds": 225.45833333333334,
+        "frames": 153,
+        "duration_seconds": 6.375
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.416666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "keys",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 34,
+        "paragraph": 12,
+        "start_seconds": 231.83333333333334,
+        "frames": 154,
+        "duration_seconds": 6.416666666666667
+      }
+    },
+    {
+      "asset": "assets/a03_casa_exterior.png",
+      "kind": "image",
+      "duration_seconds": 6.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a03_casa_exterior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 4,
+            "x": 230,
+            "feet": 686,
+            "height": 330,
+            "flip": false,
+            "walk": true,
+            "to_x": 620
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.04,
+        "index": 35,
+        "paragraph": 12,
+        "start_seconds": 238.25,
+        "frames": 153,
+        "duration_seconds": 6.375
+      }
+    },
+    {
+      "asset": "assets/a03_casa_exterior.png",
+      "kind": "image",
+      "duration_seconds": 6.166666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a03_casa_exterior",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 4,
+            "x": 620,
+            "feet": 686,
+            "height": 330,
+            "flip": false,
+            "walk": true,
+            "to_x": 900
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "index": 36,
+        "paragraph": 13,
+        "start_seconds": 244.625,
+        "frames": 148,
+        "duration_seconds": 6.166666666666667
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 6.208333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 4,
+            "x": 760,
+            "feet": 635,
+            "height": 310,
+            "flip": false,
+            "walk": true,
+            "to_x": 1000
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.03,
+        "index": 37,
+        "paragraph": 13,
+        "start_seconds": 250.79166666666666,
+        "frames": 149,
+        "duration_seconds": 6.208333333333333
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 6.166666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          1080,
+          330
+        ],
+        "zoom": 1.58,
+        "index": 38,
+        "paragraph": 13,
+        "start_seconds": 257.0,
+        "frames": 148,
+        "duration_seconds": 6.166666666666667
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 0,
+            "x": 1040,
+            "feet": 637,
+            "height": 330,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.03,
+        "index": 39,
+        "paragraph": 14,
+        "start_seconds": 263.1666666666667,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          1090,
+          300
+        ],
+        "zoom": 1.73,
+        "index": 40,
+        "paragraph": 14,
+        "start_seconds": 270.0833333333333,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "star_plaque",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 41,
+        "paragraph": 14,
+        "start_seconds": 277.0,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [
+          {
+            "name": "joana",
+            "pose": 0,
+            "x": 1050,
+            "feet": 635,
+            "height": 330,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          1050,
+          380
+        ],
+        "zoom": 1.22,
+        "index": 42,
+        "paragraph": 15,
+        "start_seconds": 283.9166666666667,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 0,
+            "x": 340,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          },
+          {
+            "name": "joana",
+            "pose": 0,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.04,
+        "index": 43,
+        "paragraph": 15,
+        "start_seconds": 290.8333333333333,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "envelope",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 44,
+        "paragraph": 15,
+        "start_seconds": 297.75,
+        "frames": 166,
+        "duration_seconds": 6.916666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.166666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "joana",
+            "pose": 2,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          950,
+          395
+        ],
+        "zoom": 1.8,
+        "index": 45,
+        "paragraph": 16,
+        "start_seconds": 304.6666666666667,
+        "frames": 196,
+        "duration_seconds": 8.166666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.166666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "unfold_letter",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 46,
+        "paragraph": 16,
+        "start_seconds": 312.8333333333333,
+        "frames": 196,
+        "duration_seconds": 8.166666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.166666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 390,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          410,
+          365
+        ],
+        "zoom": 1.83,
+        "index": 47,
+        "paragraph": 16,
+        "start_seconds": 321.0,
+        "frames": 196,
+        "duration_seconds": 8.166666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 0,
+            "x": 335,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          },
+          {
+            "name": "joana",
+            "pose": 0,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "index": 48,
+        "paragraph": 17,
+        "start_seconds": 329.1666666666667,
+        "frames": 168,
+        "duration_seconds": 7.0
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 400,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          410,
+          355
+        ],
+        "zoom": 1.8,
+        "index": 49,
+        "paragraph": 17,
+        "start_seconds": 336.1666666666667,
+        "frames": 169,
+        "duration_seconds": 7.041666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "joana",
+            "pose": 0,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          940,
+          350
+        ],
+        "zoom": 1.94,
+        "index": 50,
+        "paragraph": 17,
+        "start_seconds": 343.2083333333333,
+        "frames": 168,
+        "duration_seconds": 7.0
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.791666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 340,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          },
+          {
+            "name": "joana",
+            "pose": 1,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.06,
+        "index": 51,
+        "paragraph": 18,
+        "start_seconds": 350.2083333333333,
+        "frames": 187,
+        "duration_seconds": 7.791666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.833333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ledger_closed",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 52,
+        "paragraph": 18,
+        "start_seconds": 358.0,
+        "frames": 188,
+        "duration_seconds": 7.833333333333333
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.791666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "opening_ledger",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "index": 53,
+        "paragraph": 18,
+        "start_seconds": 365.8333333333333,
+        "frames": 187,
+        "duration_seconds": 7.791666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.333333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "joana",
+            "pose": 1,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          950,
+          407
+        ],
+        "zoom": 1.86,
+        "index": 54,
+        "paragraph": 19,
+        "start_seconds": 373.625,
+        "frames": 200,
+        "duration_seconds": 8.333333333333334
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 8.291666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.03,
+        "boat": true,
+        "index": 55,
+        "paragraph": 19,
+        "start_seconds": 381.9583333333333,
+        "frames": 199,
+        "duration_seconds": 8.291666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.333333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ledger",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "turn_pages": true,
+        "index": 56,
+        "paragraph": 19,
+        "start_seconds": 390.25,
+        "frames": 200,
+        "duration_seconds": 8.333333333333334
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ledger",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "turn_pages": true,
+        "index": 57,
+        "paragraph": 20,
+        "start_seconds": 398.5833333333333,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ledger",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.11,
+        "detail": true,
+        "ledger_entry": true,
+        "index": 58,
+        "paragraph": 20,
+        "start_seconds": 405.0833333333333,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 400,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          430,
+          380
+        ],
+        "zoom": 1.94,
+        "index": 59,
+        "paragraph": 20,
+        "start_seconds": 411.5833333333333,
+        "frames": 156,
+        "duration_seconds": 6.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 5.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "ledger_closed",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "untie": true,
+        "index": 60,
+        "paragraph": 21,
+        "start_seconds": 418.0833333333333,
+        "frames": 132,
+        "duration_seconds": 5.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 5.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "tickets",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "slide": true,
+        "index": 61,
+        "paragraph": 21,
+        "start_seconds": 423.5833333333333,
+        "frames": 132,
+        "duration_seconds": 5.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 5.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "tickets",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.09,
+        "detail": true,
+        "index": 62,
+        "paragraph": 21,
+        "start_seconds": 429.0833333333333,
+        "frames": 132,
+        "duration_seconds": 5.5
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "tickets",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.16,
+        "detail": true,
+        "ticket_name": true,
+        "index": 63,
+        "paragraph": 22,
+        "start_seconds": 434.5833333333333,
+        "frames": 160,
+        "duration_seconds": 6.666666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.625,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 440,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          460,
+          355
+        ],
+        "zoom": 2.08,
+        "index": 64,
+        "paragraph": 22,
+        "start_seconds": 441.25,
+        "frames": 159,
+        "duration_seconds": 6.625
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 6.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "tickets",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.02,
+        "detail": true,
+        "ticket_name": true,
+        "index": 65,
+        "paragraph": 22,
+        "start_seconds": 447.875,
+        "frames": 160,
+        "duration_seconds": 6.666666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 2,
+            "x": 335,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          },
+          {
+            "name": "joana",
+            "pose": 1,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.06,
+        "index": 66,
+        "paragraph": 23,
+        "start_seconds": 454.5416666666667,
+        "frames": 169,
+        "duration_seconds": 7.041666666666667
+      }
+    },
+    {
+      "asset": "assets/a02_cais.png",
+      "kind": "image",
+      "duration_seconds": 7.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a02_cais",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.03,
+        "boat": true,
+        "boat_depart": true,
+        "index": 67,
+        "paragraph": 23,
+        "start_seconds": 461.5833333333333,
+        "frames": 168,
+        "duration_seconds": 7.0
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 7.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "lia",
+            "pose": 1,
+            "x": 420,
+            "feet": 650,
+            "height": 400,
+            "flip": false,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          430,
+          365
+        ],
+        "zoom": 1.88,
+        "index": 68,
+        "paragraph": 23,
+        "start_seconds": 468.5833333333333,
+        "frames": 169,
+        "duration_seconds": 7.041666666666667
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [
+          {
+            "name": "joana",
+            "pose": 2,
+            "x": 950,
+            "feet": 650,
+            "height": 400,
+            "flip": true,
+            "walk": false,
+            "to_x": null
+          }
+        ],
+        "prop": null,
+        "focus": [
+          945,
+          385
+        ],
+        "zoom": 1.83,
+        "index": 69,
+        "paragraph": 24,
+        "start_seconds": 475.625,
+        "frames": 193,
+        "duration_seconds": 8.041666666666666
+      }
+    },
+    {
+      "asset": "assets/a05_quarto_1986.png",
+      "kind": "image",
+      "duration_seconds": 8.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a05_quarto_1986",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          340,
+          370
+        ],
+        "zoom": 1.42,
+        "flashback": true,
+        "index": 70,
+        "paragraph": 24,
+        "start_seconds": 483.6666666666667,
+        "frames": 193,
+        "duration_seconds": 8.041666666666666
+      }
+    },
+    {
+      "asset": "assets/a04_sala_joana.png",
+      "kind": "image",
+      "duration_seconds": 8.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "a04_sala_joana",
+        "actors": [],
+        "prop": "tickets",
+        "focus": [
+          640,
+          360
+        ],
+        "zoom": 1.06,
+        "detail": true,
+        "ticket_name": true,
+        "closing": true,
+        "lume": true,
+        "index": 71,
+        "paragraph": 24,
+        "start_seconds": 491.7083333333333,
+        "frames": 193,
+        "duration_seconds": 8.041666666666666
+      }
+    }
+  ]
+}

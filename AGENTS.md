@@ -17,8 +17,9 @@ apenas como procedência. Não escreva novas entregas deste canal na origem.
 1. Escolha uma história inédita ou siga o tema indicado. A linha principal é
    ficção original de mistério, emoção, escolhas e reviravoltas. Histórias reais
    ou históricas são séries próprias, identificadas e pesquisadas.
-2. Escreva narrativa completa, com personagem, desejo, conflito, pistas,
-   decisão e desfecho. A narração conta a história, sem virar uma lista de
+2. Cada história deve ter 3 ou 4 partes, um vídeo por parte. Planeje a história
+   completa, com personagem, desejo, conflito, pistas, decisão e desfecho na
+   última parte. Numere títulos, miniaturas e encerramentos e preserve continuidade. A narração conta a história, sem virar uma lista de
    curiosidades ou uma explicação das regras de produção.
 3. Identifique ficção na descrição. Em relatos factuais, registre fontes
    primárias, incertezas e o que é reconstituição. Não apresente diálogos,

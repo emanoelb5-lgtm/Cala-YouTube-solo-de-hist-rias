@@ -1,0 +1,62 @@
+{
+  "status": "defined",
+  "characters": [
+    {
+      "name": "Lia",
+      "age": 44,
+      "era": "2026",
+      "appearance": "Mulher brasileira, pele morena média, olhos castanhos, cabelo preto ondulado até os ombros, risca lateral, rosto oval.",
+      "wardrobe": "Blusa ameixa lisa com mangas até os cotovelos; saia azul de tinta e sapatos baixos marrons.",
+      "objects": [
+        "envelope envelhecido",
+        "mala de couro marrom"
+      ],
+      "emotional_arc": "Uma certeza de abandono se transforma em disposição para ouvir.",
+      "full_name": "Lia Ferreira"
+    },
+    {
+      "name": "Elisa",
+      "age": 29,
+      "era": "1986",
+      "appearance": "Mulher brasileira, pele morena média, olhos castanhos, cabelo preto longo preso numa trança, traços semelhantes aos de Lia.",
+      "wardrobe": "Blusa verde água discreta, saia bege e sandálias simples.",
+      "objects": [
+        "mala de couro marrom",
+        "caderno de alunas e alunos",
+        "lampião"
+      ],
+      "emotional_arc": "Frustração e cuidado; encontra outro caminho para ensinar."
+    },
+    {
+      "name": "Joana",
+      "age": 60,
+      "era": "2026",
+      "appearance": "Mulher brasileira, pele morena, cabelos grisalhos num coque baixo, rosto gentil com marcas de idade.",
+      "wardrobe": "Camisa verde água e casaco terracota; saia marrom.",
+      "objects": [
+        "caderno de Damião",
+        "duas passagens antigas"
+      ],
+      "emotional_arc": "Guarda uma memória que permite à filha rever a sua."
+    },
+    {
+      "name": "Lia criança",
+      "age": 4,
+      "era": "1986",
+      "appearance": "Menina morena de cabelo preto curto e ondulado; reconhecível como a Lia adulta.",
+      "wardrobe": "Camisola creme lisa.",
+      "objects": [
+        "cama de madeira",
+        "lençol azul"
+      ],
+      "emotional_arc": "Lembrança fragmentada de cuidado, sem representação de sofrimento gráfico."
+    },
+    {
+      "name": "Lume",
+      "type": "mascot",
+      "appearance": "Pequena lanterna de latão com duas asas verde água e luz âmbar.",
+      "screen_use": "Breves aparições na abertura e encerramento; fora das revelações e dos rostos."
+    }
+  ],
+  "story_id": "h001-a-carta"
+}

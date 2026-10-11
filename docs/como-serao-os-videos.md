@@ -1,22 +1,26 @@
 # Como serão os vídeos
 
-Um episódio é uma história com começo, conflito e desfecho. Duração de referência:
-oito minutos, com tolerância de 30 segundos. A imagem acompanha o que a voz conta;
-as cenas precisam fazer a narrativa avançar.
+Cada história tem **3 ou 4 partes, um vídeo por parte**. A história completa tem
+começo, conflito e desfecho; a última parte resolve o conflito. Cada vídeo entrega
+um avanço real e, antes do último, termina com a próxima pergunta. A duração de
+referência de cada parte é oito minutos, com tolerância de 30 segundos. A imagem
+acompanha o que a voz conta; as cenas fazem a narrativa avançar.
 
 ## Estrutura de referência
 
-Os tempos abaixo são planejamento. Os capítulos publicados serão calculados a
-partir da montagem final, sem revelar antecipadamente a solução do mistério.
+Planeje a história inteira antes de produzir a primeira parte. A primeira história
+foi dividida em quatro partes:
 
-| Faixa aproximada | Função | Exemplo para a história da carta |
+| Parte | Função | Capítulo da carta |
 | --- | --- | --- |
-| 0:00–0:25 | Acontecimento intrigante | Uma carta chega décadas depois, endereçada a alguém que já morreu |
-| 0:25–1:30 | Personagem, lugar e desejo | A filha quer descobrir por que a mãe guardava uma mala vazia |
-| 1:30–3:15 | Primeiras pistas e obstáculos | O remetente sumiu; um endereço antigo aponta para o cais |
-| 3:15–5:30 | Complicação e escolha | A família lembra a mesma noite de maneiras diferentes |
-| 5:30–7:15 | Clímax e revelação | Uma informação muda o significado da carta e da mala |
-| 7:15–8:00 | Consequência e fechamento | A personagem toma uma decisão; a abertura ganha novo sentido |
+| 1 | Incidente, suspeita e primeira investigação | O nome no bilhete |
+| 2 | Reconstrução e mudança de interpretação | A madrugada esquecida |
+| 3 | Consequência e descoberta do outro caminho | A turma da varanda |
+| 4 | Decisão e encerramento | Duas passagens |
+
+Numere título, miniatura, metadados e encerramento. Use os tempos reais da
+montagem para capítulos da descrição. Uma retomada nas partes seguintes deve
+ser breve; evite repetir a parte anterior para aumentar a duração.
 
 Não impor essa estrutura como fórmula idêntica a todos os episódios. Alternar
 aberturas, pontos de vista, gêneros, ritmo e caminhos de resolução.
@@ -24,7 +28,7 @@ aberturas, pontos de vista, gêneros, ritmo e caminhos de resolução.
 ## Narração
 
 - Texto original, natural e falável, em português brasileiro.
-- Meta inicial de 900 a 1.100 palavras; a duração real decide a revisão.
+- Meta inicial de 1.050 a 1.250 palavras; a duração real decide a revisão.
 - Terceira pessoa próxima é o padrão; primeira pessoa quando acrescenta algo.
 - Diálogos breves integrados à narração. Thalita mantém o timbre, com pausas e
   variações de intenção, sem vozes caricatas para cada personagem.

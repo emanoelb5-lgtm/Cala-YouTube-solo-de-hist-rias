@@ -1,0 +1,30 @@
+{
+  "reviewed_video_sha256": "78e59ee951c55887e7a203b0c520d1238a2e9f110474a4a8288bbe5d9847e521",
+  "visual_review": {
+    "status": "performed",
+    "method": "Inspeção de quadros do MP4 final no início, meio e fim de todos os planos; não foi reprodução em tempo real.",
+    "shots_reviewed": 72,
+    "frames_inspected": 216,
+    "review_pages_inspected": 18,
+    "findings": [
+      "Personagens e roupas consistentes.",
+      "Planos e objetos seguem a narrativa.",
+      "Caminhada, abertura de objetos, bilhetes e água apresentam movimento.",
+      "Moldura e Lume preservados, sem transcrição da narração na tela.",
+      "Cartão da parte 2 aparece depois da última fala."
+    ]
+  },
+  "technical_review": {
+    "complete_visual_stream": true,
+    "expected_frames": 11994,
+    "actual_frames": 11994,
+    "video_duration_seconds": 499.75,
+    "audio_duration_seconds": 499.75,
+    "full_decode": "passed",
+    "subtitle_streams": 0,
+    "integrated_loudness_lufs": -16.1,
+    "true_peak_dbfs": -4.1,
+    "audio_method": "Análise técnica da mixagem e conferência dos tempos da voz; não substitui audição integral em tempo real."
+  },
+  "correction": "Uma cena incompleta foi regenerada. A validação agora exige cobertura integral da imagem e do áudio e a gravação das cenas é atômica."
+}

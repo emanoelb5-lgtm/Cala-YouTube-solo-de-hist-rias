@@ -1,11 +1,10 @@
-# Episódios do Fio de Lume
+# Vídeos do Fio de Lume
 
-O canal está preparado para produzir a primeira história. Ainda não há episódio
-completo neste repositório.
+Cada história tem 3 ou 4 partes, um vídeo por parte.
 
-Cada pedido de vídeo cria uma pasta `ep-NNN-tema`, com roteiro, imagens, áudio,
-montagem e materiais de publicação. Os arquivos precisam passar por conferência
-técnica e revisão integral do vídeo antes de aparecerem como entregues aqui.
+| História | Parte | Título | Entrega |
+| --- | --- | --- | --- |
+| A carta que chegou quarenta anos atrasada | 1 de 4 | O nome no bilhete | [Vídeo e materiais](h001-parte-01/README.md) |
 
-[Ideias iniciais](../docs/pautas.md) ·
-[Modelo de episódio](../templates/episodio/README.md)
+[Plano da história](../historias/h001-a-carta/README.md). As partes 2, 3 e 4 estão
+planejadas; ainda não são vídeos produzidos.

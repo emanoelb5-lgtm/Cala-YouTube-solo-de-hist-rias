@@ -78,12 +78,11 @@
     "persistent_frame": true,
     "frame_style": "Moldura fina dourada, discreta e com área segura interna de 5%.",
     "visual_mix": [
-      "pixel art animada com luz e profundidade",
-      "filmagens de ambiente e objetos com procedência",
-      "fotografias e arquivos em movimento quando pertinentes"
+      "pixel art animada em camadas: personagens, objetos, água e luz",
+      "planos abertos, detalhes e ações sincronizados com a narração"
     ],
     "images_aspect_ratio": "16:9",
-    "channel_description": "Uma carta esquecida. Uma escolha impossível. Um encontro capaz de mudar uma vida.\n\nNo Fio de Lume, cada vídeo conta uma história do começo ao fim: mistérios, dramas humanos, reencontros e reviravoltas, narrados em português brasileiro e acompanhados de cenas em pixel art, luz, movimento e som.\n\nNossas histórias de ficção são originais e identificadas como ficção. Quando contamos um relato real ou histórico, indicamos as fontes e distinguimos fatos de reconstituições.\n\nApague um pouco o barulho do dia e venha ouvir.\n\nHistórias que continuam em você.",
+    "channel_description": "Uma carta esquecida. Uma escolha impossível. Um encontro capaz de mudar uma vida.\n\nNo Fio de Lume, cada história se desdobra em três ou quatro vídeos, um por parte: mistérios, dramas humanos, reencontros e reviravoltas, narrados em português brasileiro e acompanhados de pixel art animada, luz, movimento e som.\n\nNossas histórias de ficção são originais e identificadas como ficção. Quando contamos um relato real ou histórico, indicamos as fontes e distinguimos fatos de reconstituições.\n\nApague um pouco o barulho do dia e venha ouvir.\n\nHistórias que continuam em você.",
     "pixel_art_quality": "Pixel clusters definidos, paleta controlada, luz narrativa, parallax e movimentos com propósito; personagens consistentes entre cenas.",
     "assets": {
       "banner": "docs/identidade/Capa_Fio_de_Lume_16x9.png",
@@ -100,15 +99,13 @@
     ],
     "narrative_person": "Terceira pessoa próxima; primeira pessoa quando houver motivo narrativo.",
     "narration_words_target": [
-      900,
-      1100
+      1050,
+      1250
     ],
     "structure": [
-      "acontecimento que rompe a rotina",
-      "personagem e desejo",
-      "complicação e pistas",
-      "escolha e revelação",
-      "desfecho que resolve o conflito"
+      "incidente e apresentação do conflito na parte 1",
+      "investigação e consequências nas partes intermediárias",
+      "revelação e decisão na parte final"
     ],
     "dialogue": "Diálogo breve, integrado à narração; usar a mesma voz padrão, sem caricaturas.",
     "chapter_labels": "Gerar a partir dos tempos reais e sem revelar a solução do mistério.",
@@ -119,7 +116,16 @@
       "época e objetos",
       "geografia e iluminação",
       "direção do movimento"
-    ]
+    ],
+    "serialization": {
+      "parts_min": 3,
+      "parts_max": 4,
+      "one_video_per_part": true,
+      "default_parts": 4,
+      "continuity": "Uma única história por série; numeração visível na miniatura, no título e no encerramento; conflito completo resolvido na parte final.",
+      "opening": "Ação ou questão em aberto, sem resumo longo. Nas partes 2 a 4, retomada breve, sem repetir cenas para aumentar duração.",
+      "ending": "Cada parte resolve um avanço real e abre a próxima pergunta. A última encerra a história."
+    }
   },
   "origin": {
     "repository": "emanoelb5-lgtm/Projeto-criador-solo-",

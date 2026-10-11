@@ -1,0 +1,104 @@
+{
+  "tool": "image_gen.imagegen",
+  "export": "Standard 1920x1080 production canvases; no changes to illustrated content.",
+  "aspect_ratio": "16:9",
+  "assets": [
+    {
+      "id": "a01_casa_interior",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Production bitmap asset for an original Brazilian narrated story, cinematic sophisticated PIXEL ART, clean deliberate pixel clusters, rich painterly pixel shading, restrained navy #12172D, antique gold #D9A34B, muted plum #725B80 and teal #6EBAB2. Exact landscape 16:9 canvas, preferably 1920x1080. No title, no captions, no watermark, no collage, no frame. Reference image is STYLE ONLY, never copy its lettering or its composition. Adult emotional mystery, quiet riverside Brazil, fictional village. New scene: intimate wide interior of an old wooden riverside house in the present day. Warm amber table lamp on a sideboard at far left, an empty wooden writing table in the foreground lower third with an open old brown leather suitcase resting at lower right, a dark wooden wardrobe at left background, a large open window toward the river at right background showing rain at late afternoon. There must be clean floor and wall space in the middle and at left-center for a character sprite to be composited later; no people anywhere, no hands, no face photographs. Household lived-in detail, books, pale curtains, wet blue world outside and warm interior. Composition divided into clear depth planes: foreground table, midground walking space, rear wall and window. The open suitcase is EMPTY; no papers in it. True wide cinematic 16:9.",
+      "target": "assets/a01_casa_interior.png"
+    },
+    {
+      "id": "a02_cais",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Production bitmap asset for an original Brazilian narrated story, cinematic sophisticated PIXEL ART, clean deliberate pixel clusters, rich painterly pixel shading, restrained navy #12172D, antique gold #D9A34B, muted plum #725B80 and teal #6EBAB2. Exact landscape 16:9 canvas, preferably 1920x1080. No title, no captions, no watermark, no collage, no frame. Reference image is STYLE ONLY, never copy its lettering or its composition. Adult emotional mystery, quiet riverside Brazil, fictional village. New scene: wide old wooden quay of the same fictional Brazilian riverside village in early blue morning. River occupies the lower third and recedes toward the left horizon; wooden dock enters from lower right and extends to mid-left. At right background a simple faded BLUE wooden door with a small hand-painted golden STAR symbol, no writing; timber houses and green riverbank behind. A few mooring posts and ropes in foreground. NO boats and NO people, leaving the water clear for an animated wooden ferry to be composited later. Mist over the distant bank, fine reflected bands of dawn light. Coherent early-20th-century wooden architecture that is still in use in 2026, no European castle, no mountains, no urban skyscrapers. Crisp layers, spacious atmosphere. All scene elements within a single 16:9 landscape frame.",
+      "target": "assets/a02_cais.png"
+    },
+    {
+      "id": "a03_casa_exterior",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Production bitmap asset for an original Brazilian narrated story, cinematic sophisticated PIXEL ART, clean deliberate pixel clusters, rich painterly pixel shading, restrained navy #12172D, antique gold #D9A34B, muted plum #725B80 and teal #6EBAB2. Exact landscape 16:9 canvas, preferably 1920x1080. No title, no captions, no watermark, no collage, no frame. Reference image is STYLE ONLY, never copy its lettering or its composition. Adult emotional mystery, quiet riverside Brazil, fictional village. New scene: old Brazilian riverside teacher's wooden house, wide cinematic view across a wet lane and front veranda after rain, present day. Warm lamp behind open front window; broad covered porch with eight mismatched old wooden chairs grouped at far right, a closed entrance door at center-left, wooden handrail, low flowering plants, river visible beyond the house at far right. Roof clay tiles, green tropical vegetation, no mountains or fantasy towers. Indigo twilight and golden window light. NO people, NO boats, NO signs, NO text. Keep a clear route across the foreground lane so a walking sprite can be animated later. Several distinct depth planes and foreground vegetation at both edges. Single complete 16:9 landscape scene.",
+      "target": "assets/a03_casa_exterior.png"
+    },
+    {
+      "id": "s01_lia",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Production transparent character animation atlas for a pixel art film. EXACT 16:9 landscape canvas, 1920x1080 preferred, truly transparent alpha background. Reference is the identity and visual style of Lia ONLY; do not recreate the thumbnail or any lettering. Lia is a 44-year-old Brazilian woman, medium brown skin, brown eyes, black wavy shoulder-length hair with side part, oval face, simple plain muted PLUM blouse with sleeves to the elbows, navy skirt, brown low shoes. Sophisticated detailed cinematic pixel art with clean pixel clusters and restrained lighting. Arrange EXACTLY eight isolated FULL-BODY sprite poses in an exact 4 columns by 2 rows regular invisible grid. Every pose centered entirely inside its equal cell with generous transparent margins; same character proportions and same clothes in every pose, no clipping, no overlap, no drawn grid. Upper row left to right: 1 standing relaxed three-quarter facing right, 2 standing looking down at a small old closed envelope held in both hands, 3 seated on a SIMPLE stool looking thoughtfully at envelope, 4 kneeling with one hand reaching down toward a suitcase but DO NOT include suitcase. Lower row: 5 walk cycle facing right left foot forward, 6 walk cycle facing right feet passing, 7 walk cycle facing right right foot forward, 8 walk cycle facing right feet passing with slight alternate arm movement. Eight sprites only. No other people, no background scene, no floor, no shadow rectangle, no text, no watermark. Entire output remains 16:9, never square.",
+      "target": "assets/s01_lia.png"
+    },
+    {
+      "id": "a04_sala_joana",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Production bitmap for a cinematic Brazilian PIXEL ART narrated film. EXACT 16:9 landscape canvas. Sophisticated deliberate pixel clusters, expressive restrained lighting, navy #12172D, antique gold #D9A34B, muted plum #725B80 and teal #6EBAB2. No title, captions, watermark, collage or decorative frame. The input reference is for pixel style and continuity ONLY, do not recreate it. Fictional modest Brazilian riverside village, realistic wooden architecture, no fantasy or European town. A new wide cinematic interior of a riverside family home with faded BLUE wooden walls and an open door toward the quay at far left. A low writing table at center foreground, closed stacked old ledgers on an upper shelf behind, afternoon gold light coming from a right window. Absolutely NO people and NO chairs or stools in the center; leave open floor space on both sides of the central low table so two seated character sprites including their stools can be composited there later. Bookshelves, a brass lamp, clay coffee cups at far right, ropes coiled near the doorway, one small hand-painted golden STAR on a drawer. Clear foreground/midground/background layers. Quiet, intimate, lived-in atmosphere. Single full-frame 16:9 scene.",
+      "target": "assets/a04_sala_joana.png"
+    },
+    {
+      "id": "a05_quarto_1986",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Production bitmap for a cinematic Brazilian PIXEL ART narrated film. EXACT 16:9 landscape canvas. Sophisticated deliberate pixel clusters, expressive restrained lighting, navy #12172D, antique gold #D9A34B, muted plum #725B80 and teal #6EBAB2. No title, captions, watermark, collage or decorative frame. The input reference is for pixel style and continuity ONLY, do not recreate it. Fictional modest Brazilian riverside village, realistic wooden architecture, no fantasy or European town. A new wide nighttime bedroom of the same old riverside house, forty years earlier in 1986. Simple wooden bed on the LEFT, white pillow and deep blue blanket on an empty mattress, NO people. Open EMPTY old brown leather suitcase atop a low wooden trunk at far RIGHT. A small warm brass kerosene lamp on a shelf beside the bed, simple wardrobe and folded beige clothes against the back wall. Rain just outside a back window, navy shadows and intimate amber light. No medical equipment, no illness imagery, no text, no clock digits. Leave a clear floor zone near the bed at center-left for a mother sprite to lean toward it. Strong distinct depth layers; caring domestic atmosphere, not horror. One complete horizontal 16:9 background.",
+      "target": "assets/a05_quarto_1986.png"
+    },
+    {
+      "id": "s02_joana",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. A production CHARACTER ANIMATION ATLAS, exact landscape 16:9 canvas, genuinely transparent alpha background. Joana is a 60-year-old Brazilian woman with medium brown skin, kind brown eyes, a gray low hair bun and visible gentle age lines, teal shirt under a TERRACOTTA cardigan, brown ankle-length skirt and simple dark shoes. Detailed cinematic pixel art matching the reference style, proportions consistent in all poses, no caricature. EXACTLY eight isolated full-body sprites in an invisible regular grid: four equal columns, two equal rows. Every sprite wholly inside its cell with at least 20px clear alpha margin, no overlap. Upper row: 1 standing relaxed facing left, 2 seated on one simple dark wooden stool, holding an open old ledger on lap, 3 standing holding a closed tied notebook, 4 seated on a simple matching stool, reaching a hand left toward another person but include no other person or paper. Lower row: four WALK CYCLE poses facing left in order, left foot forward / passing / right foot forward / passing, clear alternate arms and leg positions. Same face, same clothes and head scale in all eight. No labels, no grid strokes, no extra objects, no backdrop, no floor or shadow panel. Entire output must be 16:9, never square.",
+      "target": "assets/s02_joana.png"
+    },
+    {
+      "id": "s03_elisa_crianca",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Production sprite atlas for the SAME family as reference Lia, original 1986 flashback, detailed cinematic PIXEL ART. Exact landscape 16:9 canvas with TRUE TRANSPARENT ALPHA background. Exactly eight isolated sprites in an invisible regular 4-column by 2-row grid, generous transparent margins, every subject entirely in its cell, no overlap. Upper row has Elisa, the mother age 29: medium brown Brazilian woman, brown eyes, same family facial structure as Lia, long black hair in a BRAID, plain muted teal blouse, beige ankle-length skirt, simple sandals. Four full-body poses: 1 standing facing left, 2 seated on a small simple stool reading an open book, 3 kneeling reaching to the right to pack but NO suitcase, 4 standing leaning down left with a tender outstretched hand to care for her child but NO child in that cell. Lower row has young Lia age FOUR, medium brown skin, short wavy black hair, cream NIGHTGOWN: 1 lying asleep horizontally wrapped in a navy blanket with head on a white pillow, NO bed frame; 2 sitting relaxed hugging knees, 3 walking toward right left foot forward, 4 walking toward right right foot forward. No pain, no distress, no medical procedures, no exposed bodies, no extra children, no extra people. Clear readable pixel clusters, natural modest family clothing, same faces across poses. No text, no watermark, no grid. Full canvas must be 16:9.",
+      "target": "assets/s03_elisa_crianca.png"
+    },
+    {
+      "id": "a06_varanda",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final production background for the ending of an original Brazilian pixel art film, EXACT landscape 16:9. Cinematic detailed PIXEL ART, same simple old wooden riverside house as input reference, same timber architecture, antique gold, navy, muted plum and teal palette, warm late afternoon sun after rain. View from inside the house toward its covered wooden veranda and river beyond. In BACKGROUND five DIFFERENT elderly Brazilian former students, ages about 55-75, sit on mismatched plain wooden chairs in a relaxed semicircle talking, all modest fully clothed adults, distinct faces and clothes, no protagonist Lia or Joana. Include a woman with gray afro hair and cream shirt, a brown-skinned man with gray mustache and simple blue shirt, a gray-haired woman in pale yellow, a woman in faded green, a man in beige. They occupy only the far rear half of the porch so it is easy to composite the main characters into the foreground later. A small coffee pot and clay cups on a side table. Leave clear foreground floor center-left and center-right. Their faces have no exaggerated expressions, quiet warmth and real memory, no cheering crowd, no text, no logos or watermark, no frame. Strong depth, dappled leaf light, horizontal 16:9.",
+      "refs": [
+        "videos/h001-parte-01/assets/a03_casa_exterior.png"
+      ],
+      "target": "assets/a06_varanda.png"
+    },
+    {
+      "id": "s04_objetos",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Production PIXEL ART prop atlas for an original emotional narrated story. EXACT 16:9 landscape canvas, genuinely transparent alpha. Exactly EIGHT distinct isolated items, one in each cell of an invisible regular four-column by two-row grid; generous transparent margins, no clipping or overlap, no visible grid or labels. Rich crisp detailed pixel clusters matching the warm brass and old wood reference style. Upper row left to right: 1 a worn cream CLOSED envelope with a small hand-drawn brown STAR, no readable words; 2 a cream unfolded letter, small faint illegible ink lines, no words; 3 a CLOSED old brown leather travel suitcase with two brass latches, three-quarter view; 4 the SAME suitcase OPEN and EMPTY, same leather and brass details. Lower row: 5 an OPEN old handwritten ledger with a string binding, tiny illegible lines, no words; 6 TWO old cream boat tickets displayed together, one adult-sized and one visibly smaller child-sized, each has a small brown STAR and no readable words; 7 side-on small OLD WOODEN RIVER FERRY, navy hull, beige little cabin, tiny warm star on the proa, no people, no water, no oars; 8 a thin age-worn folded cream sheet of paper half open, tiny illegible ink marks, no readable words. No backdrop, no flooring, no shadow rectangle, no faces, no other props. Entire output landscape 16:9.",
+      "refs": [
+        "videos/h001-parte-01/assets/a01_casa_interior.png"
+      ],
+      "target": "assets/s04_objetos.png"
+    },
+    {
+      "id": "s05_lume",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Transparent production animation sprite atlas of LUME, the tiny winged BRASS LANTERN from the input reference. EXACT 16:9 landscape canvas, genuine transparent alpha background. Reference is the mascot ONLY; do not reproduce book, ring, backdrop or golden trail. Detailed cinematic pixel art and unmistakably same lantern: antique brass top handle, warm amber glass chamber, exactly TWO moth-like delicate TEAL wings, no eyes, no face, no limbs. Exactly EIGHT isolated lantern sprites in an invisible even 4-column by 2-row grid, each wholly contained in its cell, generous transparent margin, same body size in all frames. Wing FLUTTER cycle in reading order: wings fully spread / slightly lowered / half closed / nearly closed / half open / spread upward / spread horizontal / lowered halfway. Tiny variation of lamp illumination, body stays upright. No background light circle, no book, no floor, no rectangles, no text, no watermark, no grid. Entire sheet must be 16:9 horizontal.",
+      "refs": [
+        "docs/identidade/Perfil_Fio_de_Lume_16x9.png"
+      ],
+      "target": "assets/s05_lume.png"
+    }
+  ],
+  "story_id": "h001-a-carta",
+  "part_number": 1,
+  "additional_assets": [
+    {
+      "id": "s06_investigacao",
+      "tool": "image_gen.imagegen",
+      "transparent": true,
+      "aspect_ratio": "16:9",
+      "description": "Atlas de celular, contrato, chaves, gaveta, bilhete, estrela, caderno fechado e carta.",
+      "path": "assets/s06_investigacao.png",
+      "prompt": "Production prop animation atlas for the Brazilian pixel art film Fio de Lume. Exact horizontal 16:9, genuine transparent alpha. Eight isolated props in a 4-column by 2-row invisible grid: smartphone with unreadable screen; sale contract with blank signature line; two brass house keys; open drawer with old envelope stuck behind it; old ferry ticket with star; blue wooden star plaque; closed ledger tied with string; half-open letter. Crisp cinematic pixel clusters, navy, antique gold, parchment, plum and teal. No people, no floor, no labels, no watermark, no overlap. Reference s04_objetos is style only."
+    },
+    {
+      "id": "miniatura_parte01",
+      "tool": "image_gen.imagegen",
+      "edit_target": "Miniatura do conto-base, preservada na origem do projeto.",
+      "aspect_ratio": "16:9",
+      "change": "Adicionar identificação PARTE 1 DE 4, mantendo Lia, a carta e a identidade.",
+      "path": "miniatura.png",
+      "prompt": "Edit the existing final thumbnail only. Keep the 16:9 composition, Lia face, pixel art, navy and amber palette, thin golden border, envelope, wooden house and river. Preserve FIO DE LUME and A CARTA CHEGOU TARDE exactly. Add one compact antique-gold badge at lower left with dark navy text PARTE 1 DE 4, legible on a phone and never covering the face, hands or headline. No other changes or text."
+    }
+  ]
+}

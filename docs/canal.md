@@ -11,7 +11,8 @@ ou identificador no YouTube não foi verificada.
 
 ## O que o espectador encontra
 
-Histórias para ouvir e acompanhar visualmente, com personagens que querem algo,
+Histórias em três ou quatro partes, um vídeo por parte, para ouvir e acompanhar
+visualmente, com personagens que querem algo,
 decisões difíceis e consequências. A linha principal é ficção original para um
 público geral jovem e adulto. Suspense sem violência gráfica, drama sem apelo
 gratuito e emoção construída pelas ações dos personagens.

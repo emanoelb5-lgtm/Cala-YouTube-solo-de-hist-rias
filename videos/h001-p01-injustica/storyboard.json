@@ -1,0 +1,2818 @@
+{
+  "status": "defined",
+  "assembly_engine": "producao/animar.py",
+  "duration_seconds": 506.0416666666667,
+  "subtitle_mode": "none",
+  "animation_fps": 12,
+  "shots": [
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.0833333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "confession",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "slide",
+        "lume": true,
+        "index": 0,
+        "paragraph": 0,
+        "narration": "Mauro empurrou uma folha por cima da mesa.",
+        "start_seconds": 0.0,
+        "duration_seconds": 3.0833333333333335,
+        "frames": 74
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "confession",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "pen",
+        "index": 1,
+        "paragraph": 1,
+        "narration": "— Assina. Eu pago o que prometi e ninguém precisa ficar sabendo.",
+        "start_seconds": 3.0833333333333335,
+        "duration_seconds": 5.0,
+        "frames": 120
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "confession",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "amount",
+        "index": 2,
+        "paragraph": 2,
+        "narration": "Daniel leu a primeira linha. O papel dizia que ele tinha desviado cento e oitenta mil reais em mercadorias.",
+        "start_seconds": 8.083333333333334,
+        "duration_seconds": 7.375,
+        "frames": 177
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.5833333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 360,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          360,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 3,
+        "paragraph": 3,
+        "narration": "— Você quer que eu assine que roubei?",
+        "start_seconds": 15.458333333333334,
+        "duration_seconds": 2.5833333333333335,
+        "frames": 62
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 730,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "door": "close",
+        "index": 4,
+        "paragraph": 4,
+        "narration": "Mauro fechou a porta da sala.",
+        "start_seconds": 18.041666666666668,
+        "duration_seconds": 2.5,
+        "frames": 60
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 690,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          690,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 5,
+        "paragraph": 5,
+        "narration": "— Eu quero resolver isso sem acabar com a sua vida.",
+        "start_seconds": 20.541666666666668,
+        "duration_seconds": 3.5,
+        "frames": 84
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          380,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 6,
+        "paragraph": 6,
+        "narration": "Até aquela manhã, Daniel teria confiado nele de olhos fechados.",
+        "start_seconds": 24.041666666666668,
+        "duration_seconds": 4.666666666666667,
+        "frames": 112
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "loading",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 240,
+            "feet": 485,
+            "height": 290,
+            "pose": 0,
+            "walk": true,
+            "to_x": 550
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "truck": true,
+        "boxes": true,
+        "index": 7,
+        "paragraph": 7,
+        "narration": "Trabalhava na distribuidora havia quatorze anos. Entrara descarregando caminhão. Agora organizava o estoque, corrigia pedidos e conhecia pelo nome os motoristas que chegavam antes das sete. Quando faltava alguém, ele cobria. Quando uma entrega atrasava, era o celular dele que tocava.",
+        "start_seconds": 28.708333333333332,
+        "duration_seconds": 9.875,
+        "frames": 237
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.916666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "loading",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 240,
+            "feet": 485,
+            "height": 290,
+            "pose": 0,
+            "walk": true,
+            "to_x": 550
+          }
+        ],
+        "prop": null,
+        "focus": [
+          240,
+          287.79999999999995
+        ],
+        "zoom": 1.65,
+        "truck": true,
+        "boxes": true,
+        "index": 8,
+        "paragraph": 7,
+        "narration": "Trabalhava na distribuidora havia quatorze anos. Entrara descarregando caminhão. Agora organizava o estoque, corrigia pedidos e conhecia pelo nome os motoristas que chegavam antes das sete. Quando faltava alguém, ele cobria. Quando uma entrega atrasava, era o celular dele que tocava.",
+        "start_seconds": 38.583333333333336,
+        "duration_seconds": 9.916666666666666,
+        "frames": 238
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.833333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 340,
+            "feet": 500,
+            "height": 310,
+            "pose": 3
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "clock": true,
+        "index": 9,
+        "paragraph": 8,
+        "narration": "Na semana anterior, tinha perdido o aniversário da filha para resolver uma carga que chegara errada. Mauro agradecera com a mão no seu ombro.",
+        "start_seconds": 48.5,
+        "duration_seconds": 8.833333333333334,
+        "frames": 212
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.6666666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 340,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "mauro",
+            "x": 695,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "index": 10,
+        "paragraph": 9,
+        "narration": "— Você é de casa, Daniel.",
+        "start_seconds": 57.333333333333336,
+        "duration_seconds": 2.6666666666666665,
+        "frames": 64
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 300,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "mauro",
+            "x": 735,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          700,
+          255
+        ],
+        "zoom": 1.25,
+        "index": 11,
+        "paragraph": 10,
+        "narration": "Agora, o homem que dissera aquilo mantinha o braço cruzado na frente da porta.",
+        "start_seconds": 60.0,
+        "duration_seconds": 5.0,
+        "frames": 120
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.4166666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 360,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          360,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 12,
+        "paragraph": 11,
+        "narration": "— Eu não vou assinar uma mentira.",
+        "start_seconds": 65.0,
+        "duration_seconds": 2.4166666666666665,
+        "frames": 58
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.7083333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "confession",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "withdraw",
+        "index": 13,
+        "paragraph": 12,
+        "narration": "Mauro tirou a folha de perto dele.",
+        "start_seconds": 67.41666666666667,
+        "duration_seconds": 2.7083333333333335,
+        "frames": 65
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.9166666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 700,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          700,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 14,
+        "paragraph": 13,
+        "narration": "— Então vamos fazer do jeito difícil.",
+        "start_seconds": 70.125,
+        "duration_seconds": 2.9166666666666665,
+        "frames": 70
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.458333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 235,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "julia",
+            "x": 435,
+            "feet": 473,
+            "height": 270,
+            "pose": 0
+          },
+          {
+            "name": "mauro",
+            "x": 650,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 830,
+            "feet": 500,
+            "height": 290,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "crowd": true,
+        "index": 15,
+        "paragraph": 14,
+        "narration": "Chamou todos para o galpão. Os ajudantes largaram as caixas. Júlia, do setor de compras, apareceu com um copo de café que não chegou a beber. Vitor, o filho do dono, ficou perto da televisão usada para mostrar as metas da semana.",
+        "start_seconds": 73.04166666666667,
+        "duration_seconds": 8.458333333333334,
+        "frames": 203
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.416666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 235,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "julia",
+            "x": 435,
+            "feet": 473,
+            "height": 270,
+            "pose": 0
+          },
+          {
+            "name": "mauro",
+            "x": 650,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 830,
+            "feet": 500,
+            "height": 290,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          435,
+          289.4
+        ],
+        "zoom": 1.65,
+        "crowd": true,
+        "index": 16,
+        "paragraph": 14,
+        "narration": "Chamou todos para o galpão. Os ajudantes largaram as caixas. Júlia, do setor de compras, apareceu com um copo de café que não chegou a beber. Vitor, o filho do dono, ficou perto da televisão usada para mostrar as metas da semana.",
+        "start_seconds": 81.5,
+        "duration_seconds": 8.416666666666666,
+        "frames": 202
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 12.291666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 330,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 700,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": "small-report",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "flashback": true,
+        "index": 17,
+        "paragraph": 15,
+        "narration": "Vitor tinha assumido a gerência quatro meses antes. O primeiro aviso de que alguma coisa mudaria veio numa sexta-feira, quando pediu a Daniel que confirmasse a saída de uma carga que ainda estava no estoque.",
+        "start_seconds": 89.91666666666667,
+        "duration_seconds": 12.291666666666666,
+        "frames": 295
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.3333333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "report",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "withdraw",
+        "index": 18,
+        "paragraph": 16,
+        "narration": "Daniel devolveu a folha.",
+        "start_seconds": 102.20833333333333,
+        "duration_seconds": 2.3333333333333335,
+        "frames": 56
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.125,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 350,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          350,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 19,
+        "paragraph": 17,
+        "narration": "— Eu assino quando sair.",
+        "start_seconds": 104.54166666666667,
+        "duration_seconds": 2.125,
+        "frames": 51
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "vitor",
+            "x": 700,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          700,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 20,
+        "paragraph": 18,
+        "narration": "— É só para fechar o mês.",
+        "start_seconds": 106.66666666666667,
+        "duration_seconds": 2.25,
+        "frames": 54
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.8333333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 350,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          350,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 21,
+        "paragraph": 19,
+        "narration": "— Então fecha o mês com o que aconteceu.",
+        "start_seconds": 108.91666666666667,
+        "duration_seconds": 2.8333333333333335,
+        "frames": 68
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.7083333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 240,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 800,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.02,
+        "index": 22,
+        "paragraph": 20,
+        "narration": "Desde aquele dia, os dois quase não se falavam.",
+        "start_seconds": 111.75,
+        "duration_seconds": 3.7083333333333335,
+        "frames": 89
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.625,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [],
+        "prop": "report",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "index": 23,
+        "paragraph": 21,
+        "narration": "Mauro esperou o último funcionário chegar. Depois mostrou um relatório. Havia três saídas de equipamentos registradas no nome de Daniel. Os clientes informados não tinham recebido os produtos. As mercadorias também não estavam no depósito.",
+        "start_seconds": 115.45833333333333,
+        "duration_seconds": 8.625,
+        "frames": 207
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.625,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [],
+        "prop": "report",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.13,
+        "detail": true,
+        "index": 24,
+        "paragraph": 21,
+        "narration": "Mauro esperou o último funcionário chegar. Depois mostrou um relatório. Havia três saídas de equipamentos registradas no nome de Daniel. Os clientes informados não tinham recebido os produtos. As mercadorias também não estavam no depósito.",
+        "start_seconds": 124.08333333333333,
+        "duration_seconds": 8.625,
+        "frames": 207
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 660,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          660,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 25,
+        "paragraph": 22,
+        "narration": "— A gente dá confiança, dá oportunidade, e recebe isso em troca.",
+        "start_seconds": 132.70833333333334,
+        "duration_seconds": 4.916666666666667,
+        "frames": 118
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.0833333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 220,
+            "feet": 500,
+            "height": 310,
+            "pose": 0,
+            "to_x": 310
+          },
+          {
+            "name": "mauro",
+            "x": 670,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "approach": true,
+        "index": 26,
+        "paragraph": 23,
+        "narration": "Daniel tentou se aproximar do papel.",
+        "start_seconds": 137.625,
+        "duration_seconds": 3.0833333333333335,
+        "frames": 74
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.2916666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [],
+        "prop": "report",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "dates",
+        "index": 27,
+        "paragraph": 24,
+        "narration": "— Deixa eu ver essas datas.",
+        "start_seconds": 140.70833333333334,
+        "duration_seconds": 2.2916666666666665,
+        "frames": 55
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.416666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "vitor",
+            "x": 750,
+            "feet": 500,
+            "height": 290,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          780,
+          220
+        ],
+        "zoom": 1.18,
+        "tv": true,
+        "index": 28,
+        "paragraph": 25,
+        "narration": "Vitor ligou a televisão. Um vídeo mostrava Daniel levando duas caixas até um caminhão. Trinta e poucos segundos, sem som.",
+        "start_seconds": 143.0,
+        "duration_seconds": 9.416666666666666,
+        "frames": 226
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "loading",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 220,
+            "feet": 472,
+            "height": 260,
+            "pose": 0,
+            "walk": true,
+            "to_x": 555
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "truck": true,
+        "boxes": true,
+        "cctv": true,
+        "index": 29,
+        "paragraph": 26,
+        "narration": "Ele reconheceu o lugar, o motorista e as caixas com etiqueta vermelha.",
+        "start_seconds": 152.41666666666666,
+        "duration_seconds": 4.666666666666667,
+        "frames": 112
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.541666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 360,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          360,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 30,
+        "paragraph": 27,
+        "narration": "— Isso foi uma devolução. O fornecedor mandou buscar. Tem a conferência, tem o recibo.",
+        "start_seconds": 157.08333333333334,
+        "duration_seconds": 7.541666666666667,
+        "frames": 181
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.5,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 690,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          690,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 31,
+        "paragraph": 28,
+        "narration": "— O que tem é você colocando mercadoria para fora — respondeu Mauro.",
+        "start_seconds": 164.625,
+        "duration_seconds": 4.5,
+        "frames": 108
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.291666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 250,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "julia",
+            "x": 580,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          565,
+          235
+        ],
+        "zoom": 1.45,
+        "index": 32,
+        "paragraph": 29,
+        "narration": "Daniel procurou Júlia no meio das pessoas. Ela acompanhara aquela devolução. Bastava dizer que lembrava.",
+        "start_seconds": 169.125,
+        "duration_seconds": 8.291666666666666,
+        "frames": 199
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.333333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 555,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          555,
+          289.2
+        ],
+        "zoom": 1.85,
+        "look_down": true,
+        "index": 33,
+        "paragraph": 30,
+        "narration": "Júlia olhou para Vitor. Depois baixou a cabeça.",
+        "start_seconds": 177.41666666666666,
+        "duration_seconds": 4.333333333333333,
+        "frames": 104
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.583333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 235,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "julia",
+            "x": 435,
+            "feet": 473,
+            "height": 270,
+            "pose": 0
+          },
+          {
+            "name": "mauro",
+            "x": 650,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 830,
+            "feet": 500,
+            "height": 290,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "quiet": true,
+        "index": 34,
+        "paragraph": 31,
+        "narration": "O galpão ficou quieto. Daniel ouviu o barulho da geladeira do refeitório. Nunca tinha reparado como era alto.",
+        "start_seconds": 181.75,
+        "duration_seconds": 8.583333333333334,
+        "frames": 206
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 350,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          350,
+          289.2
+        ],
+        "zoom": 1.85,
+        "gesture": true,
+        "index": 35,
+        "paragraph": 32,
+        "narration": "— Eu quero o vídeo inteiro. Quero comparar com os documentos.",
+        "start_seconds": 190.33333333333334,
+        "duration_seconds": 4.875,
+        "frames": 117
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.8333333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 695,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          },
+          {
+            "name": "daniel",
+            "x": 320,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "index": 36,
+        "paragraph": 33,
+        "narration": "Mauro fez um gesto para o segurança.",
+        "start_seconds": 195.20833333333334,
+        "duration_seconds": 2.8333333333333335,
+        "frames": 68
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.541666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "badge",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "remove",
+        "index": 37,
+        "paragraph": 34,
+        "narration": "— Entrega o crachá. Seu acesso vai ser bloqueado.",
+        "start_seconds": 198.04166666666666,
+        "duration_seconds": 4.541666666666667,
+        "frames": 109
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.333333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 420,
+            "feet": 500,
+            "height": 285,
+            "pose": 0
+          },
+          {
+            "name": "vitor",
+            "x": 760,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.03,
+        "index": 38,
+        "paragraph": 35,
+        "narration": "Daniel olhou para as pessoas com quem almoçava todos os dias. Um dos ajudantes abriu a boca, mas desistiu quando Vitor se virou para ele.",
+        "start_seconds": 202.58333333333334,
+        "duration_seconds": 9.333333333333334,
+        "frames": 224
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "warehouse",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 500,
+            "height": 310,
+            "pose": 0,
+            "walk": true,
+            "to_x": 630
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.04,
+        "index": 39,
+        "paragraph": 36,
+        "narration": "Ninguém perguntou o que Daniel precisava levar. Ninguém ofereceu ajuda.",
+        "start_seconds": 211.91666666666666,
+        "duration_seconds": 5.666666666666667,
+        "frames": 136
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.166666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "bag",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "meal",
+        "index": 40,
+        "paragraph": 37,
+        "narration": "Ele pegou a mochila no armário. Dentro estava a marmita que Lara preparara de manhã. Tirou o crachá da camiseta e deixou sobre a mesa, ao lado da folha que não tinha assinado.",
+        "start_seconds": 217.58333333333334,
+        "duration_seconds": 11.166666666666666,
+        "frames": 268
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.75,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 370,
+            "feet": 500,
+            "height": 310,
+            "pose": 0,
+            "walk": true,
+            "to_x": 745
+          },
+          {
+            "name": "mauro",
+            "x": 255,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "door": "open",
+        "index": 41,
+        "paragraph": 38,
+        "narration": "Na porta, Mauro falou baixo:",
+        "start_seconds": 228.75,
+        "duration_seconds": 2.75,
+        "frames": 66
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [
+          {
+            "name": "mauro",
+            "x": 690,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          690,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 42,
+        "paragraph": 39,
+        "narration": "— Você podia ter evitado essa vergonha.",
+        "start_seconds": 231.5,
+        "duration_seconds": 2.875,
+        "frames": 69
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.041666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "viral",
+        "vibrate": true,
+        "index": 43,
+        "paragraph": 40,
+        "narration": "Daniel ainda estava na calçada quando recebeu o primeiro vídeo pelo celular. Alguém gravara a reunião. A mensagem vinha de um conhecido: “O que aconteceu aí?”",
+        "start_seconds": 234.375,
+        "duration_seconds": 11.041666666666666,
+        "frames": 265
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.75,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "typing",
+        "vibrate": true,
+        "index": 44,
+        "paragraph": 41,
+        "narration": "Ele escreveu que era mentira. Apagou. Escreveu de novo. Quando terminou, já havia outra mensagem pedindo explicação.",
+        "start_seconds": 245.41666666666666,
+        "duration_seconds": 9.75,
+        "frames": 234
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 1.7916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 275,
+            "feet": 460,
+            "height": 300,
+            "pose": 3
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "index": 45,
+        "paragraph": 42,
+        "narration": "Ligou para Lara.",
+        "start_seconds": 255.16666666666666,
+        "duration_seconds": 1.7916666666666667,
+        "frames": 43
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 1.9583333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 310,
+            "feet": 500,
+            "height": 310,
+            "pose": 3
+          }
+        ],
+        "prop": null,
+        "focus": [
+          310,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 46,
+        "paragraph": 43,
+        "narration": "— Fui mandado embora.",
+        "start_seconds": 256.9583333333333,
+        "duration_seconds": 1.9583333333333333,
+        "frames": 47
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.583333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "lara",
+            "x": 740,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          740,
+          289.2
+        ],
+        "zoom": 1.85,
+        "call": true,
+        "index": 47,
+        "paragraph": 44,
+        "narration": "Ela perguntou se ele tinha se machucado. Daniel demorou a entender a pergunta. Nas poucas vezes em que voltara cedo, tinha sido por causa de algum acidente no trabalho.",
+        "start_seconds": 258.9166666666667,
+        "duration_seconds": 11.583333333333334,
+        "frames": 278
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.6666666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 310,
+            "feet": 500,
+            "height": 310,
+            "pose": 3
+          }
+        ],
+        "prop": null,
+        "focus": [
+          310,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 48,
+        "paragraph": 45,
+        "narration": "— Não. Mas estão dizendo que eu roubei.",
+        "start_seconds": 270.5,
+        "duration_seconds": 3.6666666666666665,
+        "frames": 88
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.75,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "lara",
+            "x": 740,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          740,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 49,
+        "paragraph": 46,
+        "narration": "Lara não perguntou se era verdade.",
+        "start_seconds": 274.1666666666667,
+        "duration_seconds": 2.75,
+        "frames": 66
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "lara",
+            "x": 740,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          740,
+          289.2
+        ],
+        "zoom": 1.85,
+        "call": true,
+        "index": 50,
+        "paragraph": 47,
+        "narration": "— Vem para casa. A gente conversa aqui.",
+        "start_seconds": 276.9166666666667,
+        "duration_seconds": 3.875,
+        "frames": 93
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.083333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "street",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 280,
+            "feet": 465,
+            "height": 285,
+            "pose": 0,
+            "walk": true,
+            "to_x": 590
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "bus": true,
+        "index": 51,
+        "paragraph": 48,
+        "narration": "Ele esperou dois ônibus passarem antes de levantar do banco.",
+        "start_seconds": 280.7916666666667,
+        "duration_seconds": 4.083333333333333,
+        "frames": 98
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "table": true,
+        "index": 52,
+        "paragraph": 49,
+        "narration": "À noite, Nina deixou o celular virado para baixo durante o jantar. Daniel percebeu que a filha tinha visto o vídeo. Ela perguntou se ele ia voltar para o depósito.",
+        "start_seconds": 284.875,
+        "duration_seconds": 11.375,
+        "frames": 273
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 1.5833333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          380,
+          295
+        ],
+        "zoom": 1.58,
+        "table": true,
+        "index": 53,
+        "paragraph": 50,
+        "narration": "— Não amanhã.",
+        "start_seconds": 296.25,
+        "duration_seconds": 1.5833333333333333,
+        "frames": 38
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.6666666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          620,
+          312
+        ],
+        "zoom": 1.65,
+        "table": true,
+        "index": 54,
+        "paragraph": 51,
+        "narration": "— Você não vai deixar eles falarem isso de você, né?",
+        "start_seconds": 297.8333333333333,
+        "duration_seconds": 3.6666666666666665,
+        "frames": 88
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.916666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          380,
+          300
+        ],
+        "zoom": 1.75,
+        "table": true,
+        "index": 55,
+        "paragraph": 52,
+        "narration": "Daniel abriu a boca para prometer que resolveria tudo. Parou. Não sabia nem quem tinha criado aqueles relatórios.",
+        "start_seconds": 301.5,
+        "duration_seconds": 8.916666666666666,
+        "frames": 214
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.625,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          380,
+          290
+        ],
+        "zoom": 1.7,
+        "table": true,
+        "index": 56,
+        "paragraph": 53,
+        "narration": "— Eu vou descobrir o que aconteceu.",
+        "start_seconds": 310.4166666666667,
+        "duration_seconds": 2.625,
+        "frames": 63
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 10.583333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [],
+        "prop": "bills",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "spread",
+        "index": 57,
+        "paragraph": 54,
+        "narration": "Mais tarde, Lara espalhou as contas sobre a mesa. Dava para pagar o aluguel daquele mês. O seguinte dependeria de Daniel encontrar alguma coisa rápido.",
+        "start_seconds": 313.0416666666667,
+        "duration_seconds": 10.583333333333334,
+        "frames": 254
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          825,
+          285
+        ],
+        "zoom": 1.55,
+        "table": true,
+        "index": 58,
+        "paragraph": 55,
+        "narration": "— Amanhã a gente procura trabalho. E procura quem possa ajudar com essa acusação.",
+        "start_seconds": 323.625,
+        "duration_seconds": 5.916666666666667,
+        "frames": 142
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.708333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 390,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "lara",
+            "x": 820,
+            "feet": 510,
+            "height": 325,
+            "pose": 1,
+            "to_x": 775
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "table": true,
+        "approach": true,
+        "index": 59,
+        "paragraph": 56,
+        "narration": "Ele disse que resolveria sozinho. Ela puxou uma cadeira.",
+        "start_seconds": 329.5416666666667,
+        "duration_seconds": 4.708333333333333,
+        "frames": 113
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 6.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          825,
+          290
+        ],
+        "zoom": 1.7,
+        "table": true,
+        "index": 60,
+        "paragraph": 57,
+        "narration": "— Hoje você quase aceitou carregar o problema de todo mundo. Não faz isso de novo aqui.",
+        "start_seconds": 334.25,
+        "duration_seconds": 6.25,
+        "frames": 150
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 1.9166666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 380,
+            "feet": 510,
+            "height": 295,
+            "pose": 4
+          },
+          {
+            "name": "nina",
+            "x": 620,
+            "feet": 443,
+            "height": 255,
+            "pose": 0
+          },
+          {
+            "name": "lara",
+            "x": 825,
+            "feet": 510,
+            "height": 325,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "table": true,
+        "index": 61,
+        "paragraph": 58,
+        "narration": "Daniel sentou.",
+        "start_seconds": 340.5,
+        "duration_seconds": 1.9166666666666667,
+        "frames": 46
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 6.833333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 387,
+            "feet": 443,
+            "height": 240,
+            "pose": 4,
+            "flip": true
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "monitor": "cv",
+        "computer": true,
+        "index": 62,
+        "paragraph": 59,
+        "narration": "Nos dias seguintes, mandou currículos e tentou falar com dois clientes que conhecia. Um deles marcou uma conversa, depois cancelou. O outro pediu que ele voltasse quando a situação estivesse esclarecida.",
+        "start_seconds": 342.4166666666667,
+        "duration_seconds": 6.833333333333333,
+        "frames": 164
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 6.875,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 387,
+            "feet": 443,
+            "height": 240,
+            "pose": 4,
+            "flip": true
+          }
+        ],
+        "prop": null,
+        "focus": [
+          387,
+          279.79999999999995
+        ],
+        "zoom": 1.65,
+        "monitor": "cv",
+        "computer": true,
+        "index": 63,
+        "paragraph": 59,
+        "narration": "Nos dias seguintes, mandou currículos e tentou falar com dois clientes que conhecia. Um deles marcou uma conversa, depois cancelou. O outro pediu que ele voltasse quando a situação estivesse esclarecida.",
+        "start_seconds": 349.25,
+        "duration_seconds": 6.875,
+        "frames": 165
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.0,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "denied",
+        "index": 64,
+        "paragraph": 60,
+        "narration": "Esclarecer era justamente o que a empresa não deixava fazer. Mauro não atendia. Vitor respondeu uma única vez: “Agora trate disso pelos meios certos.”",
+        "start_seconds": 356.125,
+        "duration_seconds": 11.0,
+        "frames": 264
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.125,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 387,
+            "feet": 443,
+            "height": 240,
+            "pose": 4,
+            "flip": true
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "monitor": "files",
+        "computer": true,
+        "index": 65,
+        "paragraph": 61,
+        "narration": "Daniel pediu orientação para se defender e abriu uma pasta no computador de casa. Começou pelo que tinha guardado: datas das devoluções, fotografias dos volumes conferidos, mensagens recebidas e o nome dos motoristas.",
+        "start_seconds": 367.125,
+        "duration_seconds": 7.125,
+        "frames": 171
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.125,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 387,
+            "feet": 443,
+            "height": 240,
+            "pose": 4,
+            "flip": true
+          }
+        ],
+        "prop": null,
+        "focus": [
+          387,
+          279.79999999999995
+        ],
+        "zoom": 1.65,
+        "monitor": "files",
+        "computer": true,
+        "index": 66,
+        "paragraph": 61,
+        "narration": "Daniel pediu orientação para se defender e abriu uma pasta no computador de casa. Começou pelo que tinha guardado: datas das devoluções, fotografias dos volumes conferidos, mensagens recebidas e o nome dos motoristas.",
+        "start_seconds": 374.25,
+        "duration_seconds": 7.125,
+        "frames": 171
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 6.666666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 400,
+            "feet": 465,
+            "height": 260,
+            "pose": 4,
+            "flip": true
+          }
+        ],
+        "prop": null,
+        "focus": [
+          400,
+          288.2
+        ],
+        "zoom": 1.85,
+        "index": 67,
+        "paragraph": 62,
+        "narration": "Não eram provas de toda a história. Eram o começo de uma forma de conferir o que diziam sobre ele.",
+        "start_seconds": 381.375,
+        "duration_seconds": 6.666666666666667,
+        "frames": 160
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 10.541666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [],
+        "prop": "compare",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "highlight",
+        "index": 68,
+        "paragraph": 63,
+        "narration": "Na foto das caixas vermelhas, encontrou o número do recibo. Comparou com um dos relatórios mostrados no vídeo da reunião. A data não era a mesma.",
+        "start_seconds": 388.0416666666667,
+        "duration_seconds": 10.541666666666666,
+        "frames": 253
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 11.541666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "desk",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 580,
+            "feet": 505,
+            "height": 310,
+            "pose": 5
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "monitor": "files",
+        "vibrate": false,
+        "index": 69,
+        "paragraph": 64,
+        "narration": "Ligou para a transportadora. A atendente pediu que enviasse o número por mensagem e disse que verificaria. Daniel enviou, deixou o celular perto do prato e esperou.",
+        "start_seconds": 398.5833333333333,
+        "duration_seconds": 11.541666666666666,
+        "frames": 277
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.041666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "julia",
+        "vibrate": true,
+        "lume": true,
+        "index": 70,
+        "paragraph": 65,
+        "narration": "Na quinta-feira, perto das sete da noite, chegou uma mensagem de Júlia.",
+        "start_seconds": 410.125,
+        "duration_seconds": 5.041666666666667,
+        "frames": 121
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 4.541666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "dining",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "julia",
+        "index": 71,
+        "paragraph": 66,
+        "narration": "“Pode atender? Mas fala de um lugar onde ninguém escute.”",
+        "start_seconds": 415.1666666666667,
+        "duration_seconds": 4.541666666666667,
+        "frames": 109
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.708333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 680,
+            "feet": 500,
+            "height": 310,
+            "pose": 5,
+            "to_x": 520
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "approach": true,
+        "index": 72,
+        "paragraph": 67,
+        "narration": "Daniel foi até a área de serviço. Quase não deixara a ligação completar.",
+        "start_seconds": 419.7083333333333,
+        "duration_seconds": 5.708333333333333,
+        "frames": 137
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.5416666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 540,
+            "feet": 500,
+            "height": 310,
+            "pose": 5
+          }
+        ],
+        "prop": null,
+        "focus": [
+          540,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 73,
+        "paragraph": 68,
+        "narration": "— Na segunda você ficou quieta.",
+        "start_seconds": 425.4166666666667,
+        "duration_seconds": 2.5416666666666665,
+        "frames": 61
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 1.4166666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 520,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          520,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 74,
+        "paragraph": 69,
+        "narration": "— Eu sei.",
+        "start_seconds": 427.9583333333333,
+        "duration_seconds": 1.4166666666666667,
+        "frames": 34
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.5416666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 540,
+            "feet": 500,
+            "height": 310,
+            "pose": 5
+          }
+        ],
+        "prop": null,
+        "focus": [
+          540,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 75,
+        "paragraph": 70,
+        "narration": "— Você estava lá na devolução.",
+        "start_seconds": 429.375,
+        "duration_seconds": 2.5416666666666665,
+        "frames": 61
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.1666666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 520,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          520,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 76,
+        "paragraph": 71,
+        "narration": "Júlia respirou fundo.",
+        "start_seconds": 431.9166666666667,
+        "duration_seconds": 2.1666666666666665,
+        "frames": 52
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 8.458333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 520,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          }
+        ],
+        "prop": null,
+        "focus": [
+          515,
+          245
+        ],
+        "zoom": 1.6,
+        "index": 77,
+        "paragraph": 72,
+        "narration": "— Eu estava. E tenho vergonha de não ter falado. Mas preciso te mostrar uma coisa antes que tirem do sistema.",
+        "start_seconds": 434.0833333333333,
+        "duration_seconds": 8.458333333333334,
+        "frames": 203
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 10.958333333333334,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "shipment",
+        "vibrate": true,
+        "index": 78,
+        "paragraph": 73,
+        "narration": "O celular vibrou com uma imagem. Outra saída de mercadorias. Outro cliente. Mais uma vez, o nome dele no campo do responsável.",
+        "start_seconds": 442.5416666666667,
+        "duration_seconds": 10.958333333333334,
+        "frames": 263
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.916666666666667,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "shipment",
+        "action": "highlight",
+        "index": 79,
+        "paragraph": 74,
+        "narration": "Daniel procurou a data. Era daquele dia. A saída tinha sido registrada dez minutos antes.",
+        "start_seconds": 453.5,
+        "duration_seconds": 7.916666666666667,
+        "frames": 190
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.2916666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 540,
+            "feet": 500,
+            "height": 310,
+            "pose": 5
+          }
+        ],
+        "prop": null,
+        "focus": [
+          540,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 80,
+        "paragraph": 75,
+        "narration": "— Isso está acontecendo agora?",
+        "start_seconds": 461.4166666666667,
+        "duration_seconds": 2.2916666666666665,
+        "frames": 55
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.4166666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "loading",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "truck": true,
+        "depart": true,
+        "night": true,
+        "index": 81,
+        "paragraph": 76,
+        "narration": "— Acabaram de levar a carga.",
+        "start_seconds": 463.7083333333333,
+        "duration_seconds": 2.4166666666666665,
+        "frames": 58
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 7.25,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          305,
+          405
+        ],
+        "zoom": 1.75,
+        "index": 82,
+        "paragraph": 77,
+        "narration": "Ele olhou para a mochila jogada perto da máquina de lavar. O último uniforme estava dobrado por cima dela.",
+        "start_seconds": 466.125,
+        "duration_seconds": 7.25,
+        "frames": 174
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 9.541666666666666,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "office",
+        "actors": [],
+        "prop": "badge",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "action": "blocked",
+        "index": 83,
+        "paragraph": 78,
+        "narration": "Fazia três dias que não entrava na empresa. Tinham recolhido seu crachá, prometido bloquear seu acesso e mostrado seu rosto para todo mundo.",
+        "start_seconds": 473.375,
+        "duration_seconds": 9.541666666666666,
+        "frames": 229
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.208333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [],
+        "prop": "phone",
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "detail": true,
+        "phone": "shipment",
+        "action": "highlight",
+        "index": 84,
+        "paragraph": 79,
+        "narration": "Mesmo assim, alguém continuava colocando o nome dele nas cargas que desapareciam.",
+        "start_seconds": 482.9166666666667,
+        "duration_seconds": 5.208333333333333,
+        "frames": 125
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.9166666666666665,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "laundry",
+        "actors": [
+          {
+            "name": "daniel",
+            "x": 540,
+            "feet": 500,
+            "height": 310,
+            "pose": 5
+          }
+        ],
+        "prop": null,
+        "focus": [
+          540,
+          289.2
+        ],
+        "zoom": 1.85,
+        "index": 85,
+        "paragraph": 80,
+        "narration": "— Júlia. Quem mandou liberar esse caminhão?",
+        "start_seconds": 488.125,
+        "duration_seconds": 3.9166666666666665,
+        "frames": 94
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 5.958333333333333,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 465,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          },
+          {
+            "name": "vitor",
+            "x": 865,
+            "feet": 503,
+            "height": 305,
+            "pose": 0,
+            "to_x": 725
+          }
+        ],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "door": "open",
+        "enter": true,
+        "index": 86,
+        "paragraph": 81,
+        "narration": "Ela parou de falar. Do outro lado da ligação, Daniel ouviu uma porta abrir.",
+        "start_seconds": 492.0416666666667,
+        "duration_seconds": 5.958333333333333,
+        "frames": 143
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.4583333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 450,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          },
+          {
+            "name": "vitor",
+            "x": 740,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          730,
+          235
+        ],
+        "zoom": 1.4,
+        "door": "ajar",
+        "index": 87,
+        "paragraph": 82,
+        "narration": "Então veio a voz de Vitor:",
+        "start_seconds": 498.0,
+        "duration_seconds": 2.4583333333333335,
+        "frames": 59
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 2.375,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [
+          {
+            "name": "julia",
+            "x": 440,
+            "feet": 500,
+            "height": 310,
+            "pose": 1
+          },
+          {
+            "name": "vitor",
+            "x": 730,
+            "feet": 500,
+            "height": 310,
+            "pose": 0
+          }
+        ],
+        "prop": null,
+        "focus": [
+          650,
+          245
+        ],
+        "zoom": 1.5,
+        "door": "ajar",
+        "index": 88,
+        "paragraph": 83,
+        "narration": "— Com quem você está falando?",
+        "start_seconds": 500.4583333333333,
+        "duration_seconds": 2.375,
+        "frames": 57
+      }
+    },
+    {
+      "kind": "layered_animation",
+      "duration_seconds": 3.2083333333333335,
+      "pixel_art": true,
+      "animation_recipe": {
+        "bg": "purchasing",
+        "actors": [],
+        "prop": null,
+        "focus": [
+          480,
+          270
+        ],
+        "zoom": 1.0,
+        "closing": true,
+        "lume": true,
+        "index": 89,
+        "paragraph": 84,
+        "narration": "",
+        "start_seconds": 502.8333333333333,
+        "duration_seconds": 3.2083333333333335,
+        "frames": 77
+      }
+    }
+  ]
+}

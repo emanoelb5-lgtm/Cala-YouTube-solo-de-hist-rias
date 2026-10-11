@@ -101,6 +101,15 @@ class AssemblyTests(unittest.TestCase):
                 self.assertIn("metadata.json",bundle.namelist())
                 self.assertNotIn("video.mp4",bundle.namelist())
                 self.assertNotIn("legendas.srt",bundle.namelist())
+            # A valid container and full audio must not hide a truncated picture.
+            ffmpeg("-i",str(episode / "video.mp4"),
+                   "-filter_complex","[0:v]trim=duration=4,setpts=PTS-STARTPTS[short]",
+                   "-map","[short]","-map","0:a:0",
+                   "-c:v","libx264","-preset","ultrafast","-c:a","copy",
+                   str(episode / "truncated-picture.mp4"))
+            (episode / "truncated-picture.mp4").replace(episode / "video.mp4")
+            with self.assertRaisesRegex(ValueError, "faixa está incompleta"):
+                package.package(episode,test_config)
 
 
 if __name__ == "__main__":

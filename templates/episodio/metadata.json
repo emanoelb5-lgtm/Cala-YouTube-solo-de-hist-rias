@@ -11,8 +11,17 @@
   "category_id": 24,
   "publication_mode": "manual",
   "tags": [],
-  "hashtags": ["#FioDeLume", "#HistoriasNarradas"],
+  "hashtags": [
+    "#FioDeLume",
+    "#HistoriasNarradas"
+  ],
   "chapters": [],
   "sources": [],
-  "credits": ""
+  "credits": "",
+  "voice": "pt-BR-AntonioNeural",
+  "voice_gender": "male",
+  "story_id": "",
+  "story_part": 1,
+  "story_total_parts": 4,
+  "ending_hook": ""
 }

@@ -1,0 +1,183 @@
+# O funcionário que eles tentaram apagar
+
+## Parte 1 de 4 — O culpado perfeito
+
+Ficção original. Narração masculina em português brasileiro. Linguagem atual e acessível.
+
+A parte termina com a pergunta de Vitor, após Daniel descobrir uma carga registrada em seu nome depois da demissão. A resposta vem na parte 2, “O preço do silêncio”.
+
+## Narração completa
+
+Mauro empurrou uma folha por cima da mesa.
+
+— Assina. Eu pago o que prometi e ninguém precisa ficar sabendo.
+
+Daniel leu a primeira linha. O papel dizia que ele tinha desviado cento e oitenta mil reais em mercadorias.
+
+— Você quer que eu assine que roubei?
+
+Mauro fechou a porta da sala.
+
+— Eu quero resolver isso sem acabar com a sua vida.
+
+Até aquela manhã, Daniel teria confiado nele de olhos fechados.
+
+Trabalhava na distribuidora havia quatorze anos. Entrara descarregando caminhão. Agora organizava o estoque, corrigia pedidos e conhecia pelo nome os motoristas que chegavam antes das sete. Quando faltava alguém, ele cobria. Quando uma entrega atrasava, era o celular dele que tocava.
+
+Na semana anterior, tinha perdido o aniversário da filha para resolver uma carga que chegara errada. Mauro agradecera com a mão no seu ombro.
+
+— Você é de casa, Daniel.
+
+Agora, o homem que dissera aquilo mantinha o braço cruzado na frente da porta.
+
+— Eu não vou assinar uma mentira.
+
+Mauro tirou a folha de perto dele.
+
+— Então vamos fazer do jeito difícil.
+
+Chamou todos para o galpão. Os ajudantes largaram as caixas. Júlia, do setor de compras, apareceu com um copo de café que não chegou a beber. Vitor, o filho do dono, ficou perto da televisão usada para mostrar as metas da semana.
+
+Vitor tinha assumido a gerência quatro meses antes. O primeiro aviso de que alguma coisa mudaria veio numa sexta-feira, quando pediu a Daniel que confirmasse a saída de uma carga que ainda estava no estoque.
+
+Daniel devolveu a folha.
+
+— Eu assino quando sair.
+
+— É só para fechar o mês.
+
+— Então fecha o mês com o que aconteceu.
+
+Desde aquele dia, os dois quase não se falavam.
+
+Mauro esperou o último funcionário chegar. Depois mostrou um relatório. Havia três saídas de equipamentos registradas no nome de Daniel. Os clientes informados não tinham recebido os produtos. As mercadorias também não estavam no depósito.
+
+— A gente dá confiança, dá oportunidade, e recebe isso em troca.
+
+Daniel tentou se aproximar do papel.
+
+— Deixa eu ver essas datas.
+
+Vitor ligou a televisão. Um vídeo mostrava Daniel levando duas caixas até um caminhão. Trinta e poucos segundos, sem som.
+
+Ele reconheceu o lugar, o motorista e as caixas com etiqueta vermelha.
+
+— Isso foi uma devolução. O fornecedor mandou buscar. Tem a conferência, tem o recibo.
+
+— O que tem é você colocando mercadoria para fora — respondeu Mauro.
+
+Daniel procurou Júlia no meio das pessoas. Ela acompanhara aquela devolução. Bastava dizer que lembrava.
+
+Júlia olhou para Vitor. Depois baixou a cabeça.
+
+O galpão ficou quieto. Daniel ouviu o barulho da geladeira do refeitório. Nunca tinha reparado como era alto.
+
+— Eu quero o vídeo inteiro. Quero comparar com os documentos.
+
+Mauro fez um gesto para o segurança.
+
+— Entrega o crachá. Seu acesso vai ser bloqueado.
+
+Daniel olhou para as pessoas com quem almoçava todos os dias. Um dos ajudantes abriu a boca, mas desistiu quando Vitor se virou para ele.
+
+Ninguém perguntou o que Daniel precisava levar. Ninguém ofereceu ajuda.
+
+Ele pegou a mochila no armário. Dentro estava a marmita que Lara preparara de manhã. Tirou o crachá da camiseta e deixou sobre a mesa, ao lado da folha que não tinha assinado.
+
+Na porta, Mauro falou baixo:
+
+— Você podia ter evitado essa vergonha.
+
+Daniel ainda estava na calçada quando recebeu o primeiro vídeo pelo celular. Alguém gravara a reunião. A mensagem vinha de um conhecido: “O que aconteceu aí?”
+
+Ele escreveu que era mentira. Apagou. Escreveu de novo. Quando terminou, já havia outra mensagem pedindo explicação.
+
+Ligou para Lara.
+
+— Fui mandado embora.
+
+Ela perguntou se ele tinha se machucado. Daniel demorou a entender a pergunta. Nas poucas vezes em que voltara cedo, tinha sido por causa de algum acidente no trabalho.
+
+— Não. Mas estão dizendo que eu roubei.
+
+Lara não perguntou se era verdade.
+
+— Vem para casa. A gente conversa aqui.
+
+Ele esperou dois ônibus passarem antes de levantar do banco.
+
+À noite, Nina deixou o celular virado para baixo durante o jantar. Daniel percebeu que a filha tinha visto o vídeo. Ela perguntou se ele ia voltar para o depósito.
+
+— Não amanhã.
+
+— Você não vai deixar eles falarem isso de você, né?
+
+Daniel abriu a boca para prometer que resolveria tudo. Parou. Não sabia nem quem tinha criado aqueles relatórios.
+
+— Eu vou descobrir o que aconteceu.
+
+Mais tarde, Lara espalhou as contas sobre a mesa. Dava para pagar o aluguel daquele mês. O seguinte dependeria de Daniel encontrar alguma coisa rápido.
+
+— Amanhã a gente procura trabalho. E procura quem possa ajudar com essa acusação.
+
+Ele disse que resolveria sozinho. Ela puxou uma cadeira.
+
+— Hoje você quase aceitou carregar o problema de todo mundo. Não faz isso de novo aqui.
+
+Daniel sentou.
+
+Nos dias seguintes, mandou currículos e tentou falar com dois clientes que conhecia. Um deles marcou uma conversa, depois cancelou. O outro pediu que ele voltasse quando a situação estivesse esclarecida.
+
+Esclarecer era justamente o que a empresa não deixava fazer. Mauro não atendia. Vitor respondeu uma única vez: “Agora trate disso pelos meios certos.”
+
+Daniel pediu orientação para se defender e abriu uma pasta no computador de casa. Começou pelo que tinha guardado: datas das devoluções, fotografias dos volumes conferidos, mensagens recebidas e o nome dos motoristas.
+
+Não eram provas de toda a história. Eram o começo de uma forma de conferir o que diziam sobre ele.
+
+Na foto das caixas vermelhas, encontrou o número do recibo. Comparou com um dos relatórios mostrados no vídeo da reunião. A data não era a mesma.
+
+Ligou para a transportadora. A atendente pediu que enviasse o número por mensagem e disse que verificaria. Daniel enviou, deixou o celular perto do prato e esperou.
+
+Na quinta-feira, perto das sete da noite, chegou uma mensagem de Júlia.
+
+“Pode atender? Mas fala de um lugar onde ninguém escute.”
+
+Daniel foi até a área de serviço. Quase não deixara a ligação completar.
+
+— Na segunda você ficou quieta.
+
+— Eu sei.
+
+— Você estava lá na devolução.
+
+Júlia respirou fundo.
+
+— Eu estava. E tenho vergonha de não ter falado. Mas preciso te mostrar uma coisa antes que tirem do sistema.
+
+O celular vibrou com uma imagem. Outra saída de mercadorias. Outro cliente. Mais uma vez, o nome dele no campo do responsável.
+
+Daniel procurou a data. Era daquele dia. A saída tinha sido registrada dez minutos antes.
+
+— Isso está acontecendo agora?
+
+— Acabaram de levar a carga.
+
+Ele olhou para a mochila jogada perto da máquina de lavar. O último uniforme estava dobrado por cima dela.
+
+Fazia três dias que não entrava na empresa. Tinham recolhido seu crachá, prometido bloquear seu acesso e mostrado seu rosto para todo mundo.
+
+Mesmo assim, alguém continuava colocando o nome dele nas cargas que desapareciam.
+
+— Júlia. Quem mandou liberar esse caminhão?
+
+Ela parou de falar. Do outro lado da ligação, Daniel ouviu uma porta abrir.
+
+Então veio a voz de Vitor:
+
+— Com quem você está falando?
+
+## Direção visual
+
+O escritório abre o conflito; o galpão expõe a acusação diante dos colegas. A calçada e o ponto de ônibus mostram a repercussão. A casa e o jantar apresentam o custo familiar. O computador acompanha a conferência dos registros. A área de serviço e o escritório de compras alternam os lados da ligação.
+
+O mapa de todos os planos e os tempos reais estão em [producao/plano_cenas.json](producao/plano_cenas.json). As roupas, os rostos e os objetos recorrentes são preservados. Documentos e mensagens na imagem são objetos da ficção, sem transcrição fixa da narração.

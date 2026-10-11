@@ -1,11 +1,10 @@
-# Episódios do Fio de Lume
+# Histórias e vídeos
 
-O canal está preparado para produzir a primeira história. Ainda não há episódio
-completo neste repositório.
+História ativa: [O funcionário que eles tentaram apagar](../historias/h001-o-funcionario/README.md), quatro partes.
 
-Cada pedido de vídeo cria uma pasta `ep-NNN-tema`, com roteiro, imagens, áudio,
-montagem e materiais de publicação. Os arquivos precisam passar por conferência
-técnica e revisão integral do vídeo antes de aparecerem como entregues aqui.
+| Parte | Entrega | Duração | Animação |
+| --- | --- | --- | --- |
+| 1 | [O culpado perfeito](h001-p01-injustica/README.md) | 8min26s | 90 planos em pixel art |
+| 2 | [O preço do silêncio](h001-p02-silencio/README.md) | 8min28s | 75 planos em pixel art |
 
-[Ideias iniciais](../docs/pautas.md) ·
-[Modelo de episódio](../templates/episodio/README.md)
+Os dois vídeos estão produzidos em 1920 × 1080, 24 fps, com narrador masculino, miniatura, roteiro e materiais de publicação. Partes 3 e 4 planejadas. A série da carta está abandonada. Publicação manual por Emanuel.

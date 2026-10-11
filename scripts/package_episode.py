@@ -77,6 +77,12 @@ def package(episode: Path, config: dict) -> dict:
     fps = int(fraction[0]) / int(fraction[1])
     if video["width"] != target["width"] or video["height"] != target["height"] or abs(fps - target["fps"]) > 0.01:
         raise ValueError("Formato do vídeo diferente da configuração.")
+    video_duration = float(video.get("duration") or int(video["nb_frames"]) / fps)
+    audio_duration = float(audio.get("duration") or duration)
+    if abs(video_duration - duration) > max(0.15, 2 / fps) or abs(audio_duration - duration) > 0.2:
+        raise ValueError("Imagem e áudio precisam cobrir toda a duração; uma faixa está incompleta.")
+    if video.get("nb_frames") and abs(int(video["nb_frames"]) / fps - duration) > 0.15:
+        raise ValueError("O número de quadros não cobre toda a duração do episódio.")
     if abs(duration - target["duration_seconds"]) > target["duration_tolerance_seconds"]:
         raise ValueError("Duração fora da meta do canal.")
     with Image.open(episode / "miniatura.png") as thumbnail:
@@ -125,7 +131,9 @@ def package(episode: Path, config: dict) -> dict:
     (episode / "titulo.txt").write_text(title + "\n\nALTERNATIVAS\n" + "\n".join(metadata.get("alternative_titles", [])) + "\n", encoding="utf-8")
     subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-xerror", "-i", str(episode / "video.mp4"), "-f", "null", "-"], check=True, stdout=subprocess.DEVNULL)
     report = {"status": "technically_validated", "video": {"width": video["width"], "height": video["height"], "fps": fps,
-              "duration_seconds": duration, "codec": video["codec_name"], "size_bytes": (episode / "video.mp4").stat().st_size},
+              "duration_seconds": duration, "stream_duration_seconds": video_duration,
+              "frames": int(video["nb_frames"]) if video.get("nb_frames") else None,
+              "codec": video["codec_name"], "size_bytes": (episode / "video.mp4").stat().st_size},
               "audio": {"codec": audio["codec_name"], "sample_rate": int(audio["sample_rate"]), "channels": audio["channels"]},
               "voice": narration["voice"], "thumbnail_size": list(thumbnail_size),
               "subtitle_cues": len(cues), "chapters": len(chapters), "full_decode": "passed",
@@ -140,10 +148,15 @@ def package(episode: Path, config: dict) -> dict:
         subtitle_step = "O vídeo já tem legendas fixas. Guarde [legendas.srt](legendas.srt) como transcrição; uma faixa de legenda adicional pode duplicar o texto na tela."
     else:
         subtitle_step = "Envie [legendas.srt](legendas.srt) como legenda em português."
+    review_note = (
+        "A revisão por planos está registrada em [revisao.json](revisao.json).\n"
+        "Assista ao vídeo antes de publicar e escolha a visibilidade no canal."
+        if (episode / "revisao.json").is_file()
+        else "Assista ao vídeo inteiro e registre a revisão visual e de som antes de publicar."
+    )
     guide = f"""# Materiais para publicar — {config['name']}
 
-A conferência técnica foi concluída. Assista ao vídeo inteiro e registre a revisão
-visual e de som antes de anunciar a entrega.
+A conferência técnica foi concluída. {review_note}
 
 **Título:** {title}
 
@@ -163,7 +176,14 @@ exibidas no YouTube Studio.
     deliverables = list(required) + ["descricao.txt", "titulo.txt", "qa.json", "PUBLICAR.md"]
     if subtitle_file.is_file():
         deliverables.append("legendas.srt")
-    deliverables += [name for name in ("narracao.mp3", "storyboard.json", "personagens.json") if (episode / name).is_file()]
+    deliverables += [name for name in ("narracao.mp3", "storyboard.json", "personagens.json", "revisao.json",
+                                      "plano_cenas.json", "prompts.json", "palavras.json") if (episode / name).is_file()]
+    production = episode / "producao"
+    if production.is_dir():
+        deliverables += [str(path.relative_to(episode)) for path in sorted(production.rglob("*"))
+                         if path.is_file() and not path.is_symlink()
+                         and not any(part.startswith(".") or part == "__pycache__" for part in path.relative_to(production).parts)
+                         and path.suffix != ".pyc"]
     hashes = []
     for name in sorted(deliverables):
         digest = hashlib.sha256()

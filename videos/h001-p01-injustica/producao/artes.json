@@ -1,0 +1,59 @@
+{
+  "created_at": "2026-10-11",
+  "art_style": "Contemporary Brazilian cinematic pixel art, deliberate crisp clusters, consistent character faces and outfits.",
+  "generated_assets": [
+    {
+      "asset": "assets/cenarios-casa.png",
+      "sha256": "d75d41dbaa1ad786179d9c08c48a3f1a2503b8dbb102ca07c01fc7abf34f7ae9",
+      "origin": "imagegen_for_this_episode",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/cenarios-trabalho.png",
+      "sha256": "4c6f33336f01269169e55a61d906a0adcacf757cb0aa02d75f4741c5130d45ef",
+      "origin": "imagegen_for_this_episode",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/lume.png",
+      "sha256": "e92251d7d003eace799fde651adfeef93b103cf7da55c698a9ff2b0f5dc67ba4",
+      "origin": "channel_identity",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-casa.png",
+      "sha256": "5f2d4ecd6d30ee1335a13df35a8e81eac346ee732e7dc0e4eddf68fce26df9ee",
+      "origin": "imagegen_for_this_episode",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-trabalho.png",
+      "sha256": "e488af3b946a47ccc369d22b8df72050a0b217967b4ecf27addade613ddb27ab",
+      "origin": "imagegen_for_this_episode",
+      "canvas": "16:9"
+    }
+  ],
+  "visual_direction_summaries": [
+    {
+      "asset": "assets/personagens-trabalho.png",
+      "direction": "Transparent 16:9 atlas, six columns by two rows: Daniel neutral/walking, Daniel refusing/phone, Mauro stern/pointing, Vitor phone/remote, Júlia coffee/phone, Lara standing/seated."
+    },
+    {
+      "asset": "assets/personagens-casa.png",
+      "direction": "Transparent 16:9 atlas, four columns by two rows: four Daniel backpack walk-cycle poses; Daniel blue home shirt seated at keyboard; Daniel home phone; Nina seated and standing. Daniel uses the work atlas as reference."
+    },
+    {
+      "asset": "assets/cenarios-trabalho.png",
+      "direction": "16:9 2×2 atlas with four empty environments: glass manager office, warehouse meeting floor, Brazilian bus stop, warehouse loading bay. Clear foreground for animation."
+    },
+    {
+      "asset": "assets/cenarios-casa.png",
+      "direction": "16:9 2×2 atlas with four empty environments: warm family dining room, night computer workspace, laundry area, purchasing office at dusk."
+    },
+    {
+      "asset": "miniatura.png",
+      "direction": "16:9 finished thumbnail matching Daniel and Mauro, warehouse, exact headline ACUSADO INJUSTAMENTE, PARTE 1 DE 4, fine golden border, Fio de Lume branding."
+    }
+  ],
+  "notes": "Directions are concise production summaries, not a claim to reproduce verbatim tool prompts. Atlas files remain unchanged. Props and animation are generated during compositing."
+}

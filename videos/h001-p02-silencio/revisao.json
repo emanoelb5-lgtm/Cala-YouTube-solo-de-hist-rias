@@ -1,0 +1,1166 @@
+{
+  "reviewed_at": "2026-10-11",
+  "status": "encoded_frame_review_completed",
+  "method": "Inspeção visual real de 225 quadros do MP4 codificado, em 25 pranchas: início, meio e fim de todos os 75 planos. Depois de corrigir as duas chegadas, os quadros foram extraídos novamente; os quadros alterados foram reinspecionados e os demais comparados por hash.",
+  "frames_inspected": 225,
+  "shots_inspected": 75,
+  "frames_total": 12194,
+  "video_sha256": "0bede0e552e60d825c9b881e1c05b3018cc16df728986b8b73265fb2c71c093d",
+  "real_time_playback": false,
+  "scope_note": "A inspeção cobre todos os planos e transições amostradas. Não equivale a uma reprodução contínua em tempo real.",
+  "visual_findings": [
+    "A ligação inicial retoma a porta aberta da parte 1 e Júlia encerra a chamada.",
+    "Daniel conserva camiseta azul na quinta-feira e usa camisa azul de botões na sexta-feira.",
+    "Beto mantém boné cinza e colete oliva; os rostos e as roupas dos personagens permanecem coerentes.",
+    "A luz doméstica muda para dia na sexta-feira, preservando a noite no início.",
+    "R0247 conserva o número; a comparação mostra sexta-feira 17:42 e segunda-feira 08:15.",
+    "A nova carga, a ordem de Vitor e o endereço são objetos da ficção.",
+    "Personagens sentados têm assentos; Mauro olha para Daniel durante a conversa.",
+    "O quadro de continuação para a parte 3 chega após a última fala."
+  ],
+  "corrections": [
+    "Ajustados os assentos nas cenas da área de serviço, do computador e da conversa.",
+    "Corrigida a orientação de Mauro sentado.",
+    "Criada iluminação doméstica diurna para a continuidade de sexta-feira.",
+    "Corrigida a parada de Daniel após chegar à transportadora e ao portão.",
+    "A comparação da nova carga usa o registro correto de quinta-feira e a ordem da transportadora."
+  ],
+  "audio_checks": {
+    "complete_narration_words": 1134,
+    "source_text_tokens_match": true,
+    "voice": "pt-BR-AntonioNeural",
+    "rate": "+3%",
+    "measured_integrated_lufs": -16.31,
+    "measured_true_peak_dbtp": -4.02,
+    "measured_lra_lu": 2.4,
+    "listening_review_performed": false,
+    "note": "Correspondência integral das palavras, medidas de áudio e cobertura das faixas verificadas; nenhuma audição humana contínua é declarada. A remontagem preserva a narração e a mixagem."
+  },
+  "sampled_frames": [
+    {
+      "shot": 0,
+      "frame": 2,
+      "seconds": 0.08333333333333333
+    },
+    {
+      "shot": 0,
+      "frame": 27,
+      "seconds": 1.125
+    },
+    {
+      "shot": 0,
+      "frame": 52,
+      "seconds": 2.1666666666666665
+    },
+    {
+      "shot": 1,
+      "frame": 57,
+      "seconds": 2.375
+    },
+    {
+      "shot": 1,
+      "frame": 138,
+      "seconds": 5.75
+    },
+    {
+      "shot": 1,
+      "frame": 219,
+      "seconds": 9.125
+    },
+    {
+      "shot": 2,
+      "frame": 224,
+      "seconds": 9.333333333333334
+    },
+    {
+      "shot": 2,
+      "frame": 263,
+      "seconds": 10.958333333333334
+    },
+    {
+      "shot": 2,
+      "frame": 302,
+      "seconds": 12.583333333333334
+    },
+    {
+      "shot": 3,
+      "frame": 307,
+      "seconds": 12.791666666666666
+    },
+    {
+      "shot": 3,
+      "frame": 446,
+      "seconds": 18.583333333333332
+    },
+    {
+      "shot": 3,
+      "frame": 584,
+      "seconds": 24.333333333333332
+    },
+    {
+      "shot": 4,
+      "frame": 589,
+      "seconds": 24.541666666666668
+    },
+    {
+      "shot": 4,
+      "frame": 701,
+      "seconds": 29.208333333333332
+    },
+    {
+      "shot": 4,
+      "frame": 812,
+      "seconds": 33.833333333333336
+    },
+    {
+      "shot": 5,
+      "frame": 817,
+      "seconds": 34.041666666666664
+    },
+    {
+      "shot": 5,
+      "frame": 908,
+      "seconds": 37.833333333333336
+    },
+    {
+      "shot": 5,
+      "frame": 998,
+      "seconds": 41.583333333333336
+    },
+    {
+      "shot": 6,
+      "frame": 1003,
+      "seconds": 41.791666666666664
+    },
+    {
+      "shot": 6,
+      "frame": 1023,
+      "seconds": 42.625
+    },
+    {
+      "shot": 6,
+      "frame": 1042,
+      "seconds": 43.416666666666664
+    },
+    {
+      "shot": 7,
+      "frame": 1047,
+      "seconds": 43.625
+    },
+    {
+      "shot": 7,
+      "frame": 1135,
+      "seconds": 47.291666666666664
+    },
+    {
+      "shot": 7,
+      "frame": 1223,
+      "seconds": 50.958333333333336
+    },
+    {
+      "shot": 8,
+      "frame": 1228,
+      "seconds": 51.166666666666664
+    },
+    {
+      "shot": 8,
+      "frame": 1280,
+      "seconds": 53.333333333333336
+    },
+    {
+      "shot": 8,
+      "frame": 1332,
+      "seconds": 55.5
+    },
+    {
+      "shot": 9,
+      "frame": 1337,
+      "seconds": 55.708333333333336
+    },
+    {
+      "shot": 9,
+      "frame": 1451,
+      "seconds": 60.458333333333336
+    },
+    {
+      "shot": 9,
+      "frame": 1565,
+      "seconds": 65.20833333333333
+    },
+    {
+      "shot": 10,
+      "frame": 1570,
+      "seconds": 65.41666666666667
+    },
+    {
+      "shot": 10,
+      "frame": 1637,
+      "seconds": 68.20833333333333
+    },
+    {
+      "shot": 10,
+      "frame": 1703,
+      "seconds": 70.95833333333333
+    },
+    {
+      "shot": 11,
+      "frame": 1708,
+      "seconds": 71.16666666666667
+    },
+    {
+      "shot": 11,
+      "frame": 1790,
+      "seconds": 74.58333333333333
+    },
+    {
+      "shot": 11,
+      "frame": 1871,
+      "seconds": 77.95833333333333
+    },
+    {
+      "shot": 12,
+      "frame": 1876,
+      "seconds": 78.16666666666667
+    },
+    {
+      "shot": 12,
+      "frame": 1900,
+      "seconds": 79.16666666666667
+    },
+    {
+      "shot": 12,
+      "frame": 1924,
+      "seconds": 80.16666666666667
+    },
+    {
+      "shot": 13,
+      "frame": 1929,
+      "seconds": 80.375
+    },
+    {
+      "shot": 13,
+      "frame": 2023,
+      "seconds": 84.29166666666667
+    },
+    {
+      "shot": 13,
+      "frame": 2116,
+      "seconds": 88.16666666666667
+    },
+    {
+      "shot": 14,
+      "frame": 2121,
+      "seconds": 88.375
+    },
+    {
+      "shot": 14,
+      "frame": 2236,
+      "seconds": 93.16666666666667
+    },
+    {
+      "shot": 14,
+      "frame": 2351,
+      "seconds": 97.95833333333333
+    },
+    {
+      "shot": 15,
+      "frame": 2356,
+      "seconds": 98.16666666666667
+    },
+    {
+      "shot": 15,
+      "frame": 2369,
+      "seconds": 98.70833333333333
+    },
+    {
+      "shot": 15,
+      "frame": 2382,
+      "seconds": 99.25
+    },
+    {
+      "shot": 16,
+      "frame": 2387,
+      "seconds": 99.45833333333333
+    },
+    {
+      "shot": 16,
+      "frame": 2452,
+      "seconds": 102.16666666666667
+    },
+    {
+      "shot": 16,
+      "frame": 2517,
+      "seconds": 104.875
+    },
+    {
+      "shot": 17,
+      "frame": 2522,
+      "seconds": 105.08333333333333
+    },
+    {
+      "shot": 17,
+      "frame": 2627,
+      "seconds": 109.45833333333333
+    },
+    {
+      "shot": 17,
+      "frame": 2731,
+      "seconds": 113.79166666666667
+    },
+    {
+      "shot": 18,
+      "frame": 2736,
+      "seconds": 114.0
+    },
+    {
+      "shot": 18,
+      "frame": 2798,
+      "seconds": 116.58333333333333
+    },
+    {
+      "shot": 18,
+      "frame": 2859,
+      "seconds": 119.125
+    },
+    {
+      "shot": 19,
+      "frame": 2864,
+      "seconds": 119.33333333333333
+    },
+    {
+      "shot": 19,
+      "frame": 2995,
+      "seconds": 124.79166666666667
+    },
+    {
+      "shot": 19,
+      "frame": 3126,
+      "seconds": 130.25
+    },
+    {
+      "shot": 20,
+      "frame": 3131,
+      "seconds": 130.45833333333334
+    },
+    {
+      "shot": 20,
+      "frame": 3196,
+      "seconds": 133.16666666666666
+    },
+    {
+      "shot": 20,
+      "frame": 3261,
+      "seconds": 135.875
+    },
+    {
+      "shot": 21,
+      "frame": 3266,
+      "seconds": 136.08333333333334
+    },
+    {
+      "shot": 21,
+      "frame": 3375,
+      "seconds": 140.625
+    },
+    {
+      "shot": 21,
+      "frame": 3483,
+      "seconds": 145.125
+    },
+    {
+      "shot": 22,
+      "frame": 3488,
+      "seconds": 145.33333333333334
+    },
+    {
+      "shot": 22,
+      "frame": 3618,
+      "seconds": 150.75
+    },
+    {
+      "shot": 22,
+      "frame": 3747,
+      "seconds": 156.125
+    },
+    {
+      "shot": 23,
+      "frame": 3752,
+      "seconds": 156.33333333333334
+    },
+    {
+      "shot": 23,
+      "frame": 3794,
+      "seconds": 158.08333333333334
+    },
+    {
+      "shot": 23,
+      "frame": 3836,
+      "seconds": 159.83333333333334
+    },
+    {
+      "shot": 24,
+      "frame": 3841,
+      "seconds": 160.04166666666666
+    },
+    {
+      "shot": 24,
+      "frame": 3882,
+      "seconds": 161.75
+    },
+    {
+      "shot": 24,
+      "frame": 3922,
+      "seconds": 163.41666666666666
+    },
+    {
+      "shot": 25,
+      "frame": 3927,
+      "seconds": 163.625
+    },
+    {
+      "shot": 25,
+      "frame": 3981,
+      "seconds": 165.875
+    },
+    {
+      "shot": 25,
+      "frame": 4035,
+      "seconds": 168.125
+    },
+    {
+      "shot": 26,
+      "frame": 4040,
+      "seconds": 168.33333333333334
+    },
+    {
+      "shot": 26,
+      "frame": 4144,
+      "seconds": 172.66666666666666
+    },
+    {
+      "shot": 26,
+      "frame": 4247,
+      "seconds": 176.95833333333334
+    },
+    {
+      "shot": 27,
+      "frame": 4252,
+      "seconds": 177.16666666666666
+    },
+    {
+      "shot": 27,
+      "frame": 4350,
+      "seconds": 181.25
+    },
+    {
+      "shot": 27,
+      "frame": 4447,
+      "seconds": 185.29166666666666
+    },
+    {
+      "shot": 28,
+      "frame": 4452,
+      "seconds": 185.5
+    },
+    {
+      "shot": 28,
+      "frame": 4527,
+      "seconds": 188.625
+    },
+    {
+      "shot": 28,
+      "frame": 4601,
+      "seconds": 191.70833333333334
+    },
+    {
+      "shot": 29,
+      "frame": 4606,
+      "seconds": 191.91666666666666
+    },
+    {
+      "shot": 29,
+      "frame": 4680,
+      "seconds": 195.0
+    },
+    {
+      "shot": 29,
+      "frame": 4754,
+      "seconds": 198.08333333333334
+    },
+    {
+      "shot": 30,
+      "frame": 4759,
+      "seconds": 198.29166666666666
+    },
+    {
+      "shot": 30,
+      "frame": 4848,
+      "seconds": 202.0
+    },
+    {
+      "shot": 30,
+      "frame": 4936,
+      "seconds": 205.66666666666666
+    },
+    {
+      "shot": 31,
+      "frame": 4941,
+      "seconds": 205.875
+    },
+    {
+      "shot": 31,
+      "frame": 4988,
+      "seconds": 207.83333333333334
+    },
+    {
+      "shot": 31,
+      "frame": 5034,
+      "seconds": 209.75
+    },
+    {
+      "shot": 32,
+      "frame": 5039,
+      "seconds": 209.95833333333334
+    },
+    {
+      "shot": 32,
+      "frame": 5165,
+      "seconds": 215.20833333333334
+    },
+    {
+      "shot": 32,
+      "frame": 5290,
+      "seconds": 220.41666666666666
+    },
+    {
+      "shot": 33,
+      "frame": 5295,
+      "seconds": 220.625
+    },
+    {
+      "shot": 33,
+      "frame": 5433,
+      "seconds": 226.375
+    },
+    {
+      "shot": 33,
+      "frame": 5570,
+      "seconds": 232.08333333333334
+    },
+    {
+      "shot": 34,
+      "frame": 5575,
+      "seconds": 232.29166666666666
+    },
+    {
+      "shot": 34,
+      "frame": 5614,
+      "seconds": 233.91666666666666
+    },
+    {
+      "shot": 34,
+      "frame": 5653,
+      "seconds": 235.54166666666666
+    },
+    {
+      "shot": 35,
+      "frame": 5658,
+      "seconds": 235.75
+    },
+    {
+      "shot": 35,
+      "frame": 5690,
+      "seconds": 237.08333333333334
+    },
+    {
+      "shot": 35,
+      "frame": 5721,
+      "seconds": 238.375
+    },
+    {
+      "shot": 36,
+      "frame": 5726,
+      "seconds": 238.58333333333334
+    },
+    {
+      "shot": 36,
+      "frame": 5813,
+      "seconds": 242.20833333333334
+    },
+    {
+      "shot": 36,
+      "frame": 5900,
+      "seconds": 245.83333333333334
+    },
+    {
+      "shot": 37,
+      "frame": 5905,
+      "seconds": 246.04166666666666
+    },
+    {
+      "shot": 37,
+      "frame": 5968,
+      "seconds": 248.66666666666666
+    },
+    {
+      "shot": 37,
+      "frame": 6030,
+      "seconds": 251.25
+    },
+    {
+      "shot": 38,
+      "frame": 6035,
+      "seconds": 251.45833333333334
+    },
+    {
+      "shot": 38,
+      "frame": 6151,
+      "seconds": 256.2916666666667
+    },
+    {
+      "shot": 38,
+      "frame": 6267,
+      "seconds": 261.125
+    },
+    {
+      "shot": 39,
+      "frame": 6272,
+      "seconds": 261.3333333333333
+    },
+    {
+      "shot": 39,
+      "frame": 6375,
+      "seconds": 265.625
+    },
+    {
+      "shot": 39,
+      "frame": 6478,
+      "seconds": 269.9166666666667
+    },
+    {
+      "shot": 40,
+      "frame": 6483,
+      "seconds": 270.125
+    },
+    {
+      "shot": 40,
+      "frame": 6563,
+      "seconds": 273.4583333333333
+    },
+    {
+      "shot": 40,
+      "frame": 6643,
+      "seconds": 276.7916666666667
+    },
+    {
+      "shot": 41,
+      "frame": 6648,
+      "seconds": 277.0
+    },
+    {
+      "shot": 41,
+      "frame": 6729,
+      "seconds": 280.375
+    },
+    {
+      "shot": 41,
+      "frame": 6809,
+      "seconds": 283.7083333333333
+    },
+    {
+      "shot": 42,
+      "frame": 6814,
+      "seconds": 283.9166666666667
+    },
+    {
+      "shot": 42,
+      "frame": 6905,
+      "seconds": 287.7083333333333
+    },
+    {
+      "shot": 42,
+      "frame": 6996,
+      "seconds": 291.5
+    },
+    {
+      "shot": 43,
+      "frame": 7001,
+      "seconds": 291.7083333333333
+    },
+    {
+      "shot": 43,
+      "frame": 7045,
+      "seconds": 293.5416666666667
+    },
+    {
+      "shot": 43,
+      "frame": 7088,
+      "seconds": 295.3333333333333
+    },
+    {
+      "shot": 44,
+      "frame": 7093,
+      "seconds": 295.5416666666667
+    },
+    {
+      "shot": 44,
+      "frame": 7157,
+      "seconds": 298.2083333333333
+    },
+    {
+      "shot": 44,
+      "frame": 7221,
+      "seconds": 300.875
+    },
+    {
+      "shot": 45,
+      "frame": 7226,
+      "seconds": 301.0833333333333
+    },
+    {
+      "shot": 45,
+      "frame": 7304,
+      "seconds": 304.3333333333333
+    },
+    {
+      "shot": 45,
+      "frame": 7381,
+      "seconds": 307.5416666666667
+    },
+    {
+      "shot": 46,
+      "frame": 7386,
+      "seconds": 307.75
+    },
+    {
+      "shot": 46,
+      "frame": 7417,
+      "seconds": 309.0416666666667
+    },
+    {
+      "shot": 46,
+      "frame": 7447,
+      "seconds": 310.2916666666667
+    },
+    {
+      "shot": 47,
+      "frame": 7452,
+      "seconds": 310.5
+    },
+    {
+      "shot": 47,
+      "frame": 7568,
+      "seconds": 315.3333333333333
+    },
+    {
+      "shot": 47,
+      "frame": 7684,
+      "seconds": 320.1666666666667
+    },
+    {
+      "shot": 48,
+      "frame": 7689,
+      "seconds": 320.375
+    },
+    {
+      "shot": 48,
+      "frame": 7800,
+      "seconds": 325.0
+    },
+    {
+      "shot": 48,
+      "frame": 7910,
+      "seconds": 329.5833333333333
+    },
+    {
+      "shot": 49,
+      "frame": 7915,
+      "seconds": 329.7916666666667
+    },
+    {
+      "shot": 49,
+      "frame": 8013,
+      "seconds": 333.875
+    },
+    {
+      "shot": 49,
+      "frame": 8110,
+      "seconds": 337.9166666666667
+    },
+    {
+      "shot": 50,
+      "frame": 8115,
+      "seconds": 338.125
+    },
+    {
+      "shot": 50,
+      "frame": 8188,
+      "seconds": 341.1666666666667
+    },
+    {
+      "shot": 50,
+      "frame": 8261,
+      "seconds": 344.2083333333333
+    },
+    {
+      "shot": 51,
+      "frame": 8266,
+      "seconds": 344.4166666666667
+    },
+    {
+      "shot": 51,
+      "frame": 8327,
+      "seconds": 346.9583333333333
+    },
+    {
+      "shot": 51,
+      "frame": 8387,
+      "seconds": 349.4583333333333
+    },
+    {
+      "shot": 52,
+      "frame": 8392,
+      "seconds": 349.6666666666667
+    },
+    {
+      "shot": 52,
+      "frame": 8472,
+      "seconds": 353.0
+    },
+    {
+      "shot": 52,
+      "frame": 8552,
+      "seconds": 356.3333333333333
+    },
+    {
+      "shot": 53,
+      "frame": 8557,
+      "seconds": 356.5416666666667
+    },
+    {
+      "shot": 53,
+      "frame": 8678,
+      "seconds": 361.5833333333333
+    },
+    {
+      "shot": 53,
+      "frame": 8799,
+      "seconds": 366.625
+    },
+    {
+      "shot": 54,
+      "frame": 8804,
+      "seconds": 366.8333333333333
+    },
+    {
+      "shot": 54,
+      "frame": 8934,
+      "seconds": 372.25
+    },
+    {
+      "shot": 54,
+      "frame": 9063,
+      "seconds": 377.625
+    },
+    {
+      "shot": 55,
+      "frame": 9068,
+      "seconds": 377.8333333333333
+    },
+    {
+      "shot": 55,
+      "frame": 9192,
+      "seconds": 383.0
+    },
+    {
+      "shot": 55,
+      "frame": 9315,
+      "seconds": 388.125
+    },
+    {
+      "shot": 56,
+      "frame": 9320,
+      "seconds": 388.3333333333333
+    },
+    {
+      "shot": 56,
+      "frame": 9391,
+      "seconds": 391.2916666666667
+    },
+    {
+      "shot": 56,
+      "frame": 9461,
+      "seconds": 394.2083333333333
+    },
+    {
+      "shot": 57,
+      "frame": 9466,
+      "seconds": 394.4166666666667
+    },
+    {
+      "shot": 57,
+      "frame": 9589,
+      "seconds": 399.5416666666667
+    },
+    {
+      "shot": 57,
+      "frame": 9712,
+      "seconds": 404.6666666666667
+    },
+    {
+      "shot": 58,
+      "frame": 9717,
+      "seconds": 404.875
+    },
+    {
+      "shot": 58,
+      "frame": 9834,
+      "seconds": 409.75
+    },
+    {
+      "shot": 58,
+      "frame": 9951,
+      "seconds": 414.625
+    },
+    {
+      "shot": 59,
+      "frame": 9956,
+      "seconds": 414.8333333333333
+    },
+    {
+      "shot": 59,
+      "frame": 10102,
+      "seconds": 420.9166666666667
+    },
+    {
+      "shot": 59,
+      "frame": 10247,
+      "seconds": 426.9583333333333
+    },
+    {
+      "shot": 60,
+      "frame": 10252,
+      "seconds": 427.1666666666667
+    },
+    {
+      "shot": 60,
+      "frame": 10384,
+      "seconds": 432.6666666666667
+    },
+    {
+      "shot": 60,
+      "frame": 10516,
+      "seconds": 438.1666666666667
+    },
+    {
+      "shot": 61,
+      "frame": 10521,
+      "seconds": 438.375
+    },
+    {
+      "shot": 61,
+      "frame": 10604,
+      "seconds": 441.8333333333333
+    },
+    {
+      "shot": 61,
+      "frame": 10686,
+      "seconds": 445.25
+    },
+    {
+      "shot": 62,
+      "frame": 10691,
+      "seconds": 445.4583333333333
+    },
+    {
+      "shot": 62,
+      "frame": 10715,
+      "seconds": 446.4583333333333
+    },
+    {
+      "shot": 62,
+      "frame": 10738,
+      "seconds": 447.4166666666667
+    },
+    {
+      "shot": 63,
+      "frame": 10743,
+      "seconds": 447.625
+    },
+    {
+      "shot": 63,
+      "frame": 10776,
+      "seconds": 449.0
+    },
+    {
+      "shot": 63,
+      "frame": 10808,
+      "seconds": 450.3333333333333
+    },
+    {
+      "shot": 64,
+      "frame": 10813,
+      "seconds": 450.5416666666667
+    },
+    {
+      "shot": 64,
+      "frame": 10837,
+      "seconds": 451.5416666666667
+    },
+    {
+      "shot": 64,
+      "frame": 10861,
+      "seconds": 452.5416666666667
+    },
+    {
+      "shot": 65,
+      "frame": 10866,
+      "seconds": 452.75
+    },
+    {
+      "shot": 65,
+      "frame": 10938,
+      "seconds": 455.75
+    },
+    {
+      "shot": 65,
+      "frame": 11010,
+      "seconds": 458.75
+    },
+    {
+      "shot": 66,
+      "frame": 11015,
+      "seconds": 458.9583333333333
+    },
+    {
+      "shot": 66,
+      "frame": 11053,
+      "seconds": 460.5416666666667
+    },
+    {
+      "shot": 66,
+      "frame": 11090,
+      "seconds": 462.0833333333333
+    },
+    {
+      "shot": 67,
+      "frame": 11095,
+      "seconds": 462.2916666666667
+    },
+    {
+      "shot": 67,
+      "frame": 11123,
+      "seconds": 463.4583333333333
+    },
+    {
+      "shot": 67,
+      "frame": 11150,
+      "seconds": 464.5833333333333
+    },
+    {
+      "shot": 68,
+      "frame": 11155,
+      "seconds": 464.7916666666667
+    },
+    {
+      "shot": 68,
+      "frame": 11256,
+      "seconds": 469.0
+    },
+    {
+      "shot": 68,
+      "frame": 11357,
+      "seconds": 473.2083333333333
+    },
+    {
+      "shot": 69,
+      "frame": 11362,
+      "seconds": 473.4166666666667
+    },
+    {
+      "shot": 69,
+      "frame": 11460,
+      "seconds": 477.5
+    },
+    {
+      "shot": 69,
+      "frame": 11557,
+      "seconds": 481.5416666666667
+    },
+    {
+      "shot": 70,
+      "frame": 11562,
+      "seconds": 481.75
+    },
+    {
+      "shot": 70,
+      "frame": 11646,
+      "seconds": 485.25
+    },
+    {
+      "shot": 70,
+      "frame": 11730,
+      "seconds": 488.75
+    },
+    {
+      "shot": 71,
+      "frame": 11735,
+      "seconds": 488.9583333333333
+    },
+    {
+      "shot": 71,
+      "frame": 11772,
+      "seconds": 490.5
+    },
+    {
+      "shot": 71,
+      "frame": 11808,
+      "seconds": 492.0
+    },
+    {
+      "shot": 72,
+      "frame": 11813,
+      "seconds": 492.2083333333333
+    },
+    {
+      "shot": 72,
+      "frame": 11906,
+      "seconds": 496.0833333333333
+    },
+    {
+      "shot": 72,
+      "frame": 11998,
+      "seconds": 499.9166666666667
+    },
+    {
+      "shot": 73,
+      "frame": 12003,
+      "seconds": 500.125
+    },
+    {
+      "shot": 73,
+      "frame": 12059,
+      "seconds": 502.4583333333333
+    },
+    {
+      "shot": 73,
+      "frame": 12114,
+      "seconds": 504.75
+    },
+    {
+      "shot": 74,
+      "frame": 12119,
+      "seconds": 504.9583333333333
+    },
+    {
+      "shot": 74,
+      "frame": 12155,
+      "seconds": 506.4583333333333
+    },
+    {
+      "shot": 74,
+      "frame": 12191,
+      "seconds": 507.9583333333333
+    }
+  ]
+}

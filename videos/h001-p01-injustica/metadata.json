@@ -1,0 +1,79 @@
+{
+  "status": "technically_validated",
+  "channel": "Fio de Lume",
+  "title": "Demitido na frente de todos | O funcionário que eles tentaram apagar — Parte 1 de 4",
+  "alternative_titles": [
+    "Depois de 14 anos, fizeram isso com ele | Parte 1",
+    "Ele recusou a mentira. O chefe decidiu humilhá-lo. | Parte 1"
+  ],
+  "summary": "Depois de quatorze anos na distribuidora, Daniel é pressionado a assumir um desvio que não cometeu. Ele recusa, é acusado na frente dos colegas e precisa proteger o próprio nome. Quando começa a conferir seus registros, uma ligação de Júlia muda tudo.\n\nParte 1 de 4 — O culpado perfeito. A história terá uma volta por cima construída pelas escolhas, pela competência e pelas provas de Daniel.",
+  "story_kind": "original_fiction",
+  "fiction_notice": "História de ficção original. Personagens e acontecimentos são fictícios.",
+  "subtitle_mode": "none",
+  "language": "pt-BR",
+  "category_id": 24,
+  "publication_mode": "manual",
+  "tags": [
+    "Fio de Lume",
+    "história narrada",
+    "ficção original",
+    "injustiça no trabalho",
+    "empregado injustiçado",
+    "volta por cima",
+    "pixel art animada",
+    "suspense",
+    "drama",
+    "história em partes",
+    "narrador masculino"
+  ],
+  "hashtags": [
+    "#FioDeLume",
+    "#PixelArt",
+    "#HistoriasNarradas"
+  ],
+  "chapters": [
+    {
+      "start_seconds": 0,
+      "title": "A confissão que ele recusou"
+    },
+    {
+      "start_seconds": 73.04166666666667,
+      "title": "Acusado diante de todos"
+    },
+    {
+      "start_seconds": 217.58333333333334,
+      "title": "Do lado de fora"
+    },
+    {
+      "start_seconds": 284.875,
+      "title": "A pergunta da filha"
+    },
+    {
+      "start_seconds": 342.4166666666667,
+      "title": "Os primeiros registros"
+    },
+    {
+      "start_seconds": 410.125,
+      "title": "A ligação de Júlia"
+    }
+  ],
+  "sources": [],
+  "credits": "História e roteiro: ficção original desenvolvida com Emanuel. Direção de cenas e animação: composição em camadas, com personagens, veículos, documentos, portas, telas e luz em movimento. Artes: imagens geradas por IA para esta produção; Lume pertence à identidade visual do canal. Narração sintética masculina: Antonio, pt-BR-AntonioNeural, em português brasileiro. Trilha e ambientes: composição sonora original desta produção. Montagem: Fio de Lume.",
+  "voice": "pt-BR-AntonioNeural",
+  "voice_gender": "male",
+  "story_id": "h001-o-funcionario",
+  "story_part": 1,
+  "story_total_parts": 4,
+  "production": {
+    "animation_shots": 90,
+    "animation_fps": 12,
+    "output_fps": 24,
+    "voice_rate": "+3%",
+    "subtitles_embedded": false,
+    "images_aspect_ratio": "16:9",
+    "part_title": "O culpado perfeito"
+  },
+  "description": "Depois de quatorze anos na distribuidora, Daniel é pressionado a assumir um desvio que não cometeu. Ele recusa, é acusado na frente dos colegas e precisa proteger o próprio nome. Quando começa a conferir seus registros, uma ligação de Júlia muda tudo.\n\nParte 1 de 4 — O culpado perfeito. A história terá uma volta por cima construída pelas escolhas, pela competência e pelas provas de Daniel.\n\nCAPÍTULOS\n00:00 A confissão que ele recusou\n01:13 Acusado diante de todos\n03:37 Do lado de fora\n04:44 A pergunta da filha\n05:42 Os primeiros registros\n06:50 A ligação de Júlia\n\nHistória de ficção original. Personagens e acontecimentos são fictícios.\n\nCRÉDITOS\nHistória e roteiro: ficção original desenvolvida com Emanuel. Direção de cenas e animação: composição em camadas, com personagens, veículos, documentos, portas, telas e luz em movimento. Artes: imagens geradas por IA para esta produção; Lume pertence à identidade visual do canal. Narração sintética masculina: Antonio, pt-BR-AntonioNeural, em português brasileiro. Trilha e ambientes: composição sonora original desta produção. Montagem: Fio de Lume.\n\n#FioDeLume #PixelArt #HistoriasNarradas\n",
+  "duration_seconds": 506.041667,
+  "video_sha256": "a9fd432da832578b0d27c8e30e54e9681ed8269efe83a5e13df46044e45acda0"
+}

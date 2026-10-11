@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "filename": "publicacao.zip",
+  "bytes": 18734256,
+  "sha256": "e0b3dc8cc2ad91ae52c07f6850854088113c1eb3b2e4633bb53cc53d6b733538",
+  "parts": [
+    {
+      "filename": "publicacao.zip.part000",
+      "bytes": 8000000,
+      "sha256": "1230771be0a1fe7dad7d9481abd2f8b4f58476fbc60101736295e546764cf855"
+    },
+    {
+      "filename": "publicacao.zip.part001",
+      "bytes": 8000000,
+      "sha256": "da1b041cf5a70a3b9200e10396b666a2ef25a99e2923d97031e4a09a2e62f910"
+    },
+    {
+      "filename": "publicacao.zip.part002",
+      "bytes": 2734256,
+      "sha256": "d26d11ebf3421024868299ae4d5dc109d3666652cfcb105eb3f88d74a21a23d3"
+    }
+  ]
+}

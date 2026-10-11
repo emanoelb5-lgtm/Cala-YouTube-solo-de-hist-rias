@@ -5,9 +5,8 @@
 **Histórias que continuam em você.**
 
 Canal de Emanuel Bonfim para histórias narradas em português brasileiro:
-mistérios, dramas humanos, encontros inesperados e reviravoltas. Cada episódio
-conta uma história completa, com voz expressiva, cenas em pixel art, movimento
-e desenho de som.
+mistérios, dramas humanos, encontros inesperados e reviravoltas. Cada história se divide em três ou quatro partes, com um vídeo por parte,
+narrador masculino, linguagem atual, pixel art animada e ganchos em todos os encerramentos.
 
 **Repositório oficial:** `emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias`.
 
@@ -19,7 +18,7 @@ e desenho de som.
 | Frase | **Histórias que continuam em você.** |
 | Linha principal | Ficção original de mistério, emoção, escolhas e reviravoltas |
 | Outras séries | Relatos reais e históricos, com fontes e identificação |
-| Voz | **Thalita**, a voz já aprovada; gravação de Emanuel quando enviada |
+| Voz | **Antonio**, narrador masculino brasileiro; gravação de Emanuel quando enviada |
 | Mascote | **Lume**, pequena lanterna voadora com asas verde água |
 | Identidade | Azul de tinta, dourado antigo, pergaminho e ameixa |
 | Vídeos | Próximos de oito minutos, Full HD, horizontal **16:9**, **24 fps** |
@@ -55,7 +54,7 @@ conferida durante cada produção; o roteiro é escrito no chat.
 ```bash
 python -m pip install -r requirements-production.txt
 python scripts/check_setup.py
-python scripts/new_episode.py --slug ep-001-a-carta --title "A carta que chegou quarenta anos atrasada"
+python scripts/new_episode.py --slug h001-p01-injustica --title "O funcionário que eles tentaram apagar"
 ```
 
 Preencha roteiro, personagens, metadados e cenas no novo episódio; produza os
@@ -63,10 +62,10 @@ assets antes de montar. O modelo tem campos vazios para evitar tratar um
 rascunho como uma entrega.
 
 ```bash
-python scripts/generate_narration.py --text-file videos/ep-001-a-carta/narracao.txt --output-dir work/ep-001-a-carta
-python scripts/assemble_video.py --episode videos/ep-001-a-carta --work-dir work/ep-001-a-carta
-python scripts/prepare_delivery.py --episode videos/ep-001-a-carta --work-dir work/ep-001-a-carta
-python scripts/package_episode.py --episode videos/ep-001-a-carta
+python scripts/generate_narration.py --text-file videos/h001-p01-injustica/narracao.txt --output-dir work/h001-p01-injustica
+python scripts/assemble_video.py --episode videos/h001-p01-injustica --work-dir work/h001-p01-injustica
+python scripts/prepare_delivery.py --episode videos/h001-p01-injustica --work-dir work/h001-p01-injustica
+python scripts/package_episode.py --episode videos/h001-p01-injustica
 ```
 
 A duração e os planos devem seguir os tempos reais da narração. O compositor
@@ -84,3 +83,9 @@ A conferência técnica não substitui assistir ao vídeo inteiro.
 
 O repositório está preparado para o primeiro episódio. A miniatura de referência
 mostra o estilo proposto; ela não anuncia um vídeo já produzido.
+
+## Diretrizes atuais e primeira história ativa
+
+Linguagem contemporânea e acessível, narrador masculino e histórias instigantes em três ou quatro partes. Cada parte termina com um gancho; a última resolve o conflito antes de abrir uma possibilidade de futuro.
+
+**O funcionário que eles tentaram apagar** está estruturada em quatro partes. [Plano editorial](historias/h001-o-funcionario/plano-editorial.md) · [Roteiro da parte 1](historias/h001-o-funcionario/narracao-parte-01.txt) · [Diretrizes](docs/diretrizes-do-canal.md). Nenhum MP4 desta nova história foi produzido. A série anterior da carta está abandonada.

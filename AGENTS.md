@@ -17,13 +17,12 @@ apenas como procedência. Não escreva novas entregas deste canal na origem.
 1. Escolha uma história inédita ou siga o tema indicado. A linha principal é
    ficção original de mistério, emoção, escolhas e reviravoltas. Histórias reais
    ou históricas são séries próprias, identificadas e pesquisadas.
-2. Escreva narrativa completa, com personagem, desejo, conflito, pistas,
-   decisão e desfecho. A narração conta a história, sem virar uma lista de
+2. Cada história tem 3 ou 4 partes, um vídeo por parte. Use linguagem atual e acessível, narrador masculino e um gancho concreto em todo encerramento. A última parte resolve o conflito antes de abrir uma possibilidade de futuro. Planeje personagem, desejo, conflito, pistas, decisão e desfecho. A narração conta a história, sem virar uma lista de
    curiosidades ou uma explicação das regras de produção.
 3. Identifique ficção na descrição. Em relatos factuais, registre fontes
    primárias, incertezas e o que é reconstituição. Não apresente diálogos,
    pensamentos ou personagens inventados como documentação histórica.
-4. Use a voz **Thalita** (`pt-BR-ThalitaMultilingualNeural`). Interpretação
+4. Use a voz **Antonio** (`pt-BR-AntonioNeural`). Interpretação
    íntima e expressiva, com pausas naturais. Se Emanuel enviar a gravação,
    use-a. Se a voz estiver indisponível, informe e não anuncie vídeo pronto.
 5. Todas as imagens geradas, miniaturas e cenas são **16:9**. Use imagegen
@@ -54,3 +53,7 @@ o projeto e pode recompor uma entrega em partes; não produz histórias por cron
 
 Modelos e pautas são preparação: não os anuncie como episódios produzidos.
 Nenhum arquivo ou pacote pode conter credenciais.
+
+## História ativa e orientação mais recente
+
+A história da carta foi abandonada por Emanuel em 10/10/2026. Não continuar. A primeira história ativa é **O funcionário que eles tentaram apagar**, em quatro partes. Leia `docs/diretrizes-do-canal.md` e `historias/h001-o-funcionario/plano-editorial.md`. A voz deve ser masculina; a configuração anterior de Thalita foi substituída.

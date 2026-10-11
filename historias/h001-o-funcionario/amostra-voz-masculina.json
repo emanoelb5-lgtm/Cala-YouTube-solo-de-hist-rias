@@ -1,0 +1,11 @@
+{
+  "engine": "edge_tts",
+  "voice": "pt-BR-AntonioNeural",
+  "rate": "-4%",
+  "duration_seconds": 61.656,
+  "word_boundaries": 136,
+  "text_sha256": "857789f73481298a7b64644914dc79cd99f4f9a50ff60f3992bb793fa0248986",
+  "kind": "voice_sample",
+  "gender_required": "male",
+  "is_full_episode": false
+}

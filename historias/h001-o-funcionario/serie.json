@@ -1,0 +1,48 @@
+{
+  "id": "h001-o-funcionario",
+  "title": "O funcionário que eles tentaram apagar",
+  "kind": "original_fiction",
+  "status": "development",
+  "total_parts": 4,
+  "language_style": "contemporânea, acessível e falável; palavras comuns, frases claras e diálogos naturais",
+  "voice": {
+    "engine": "edge_tts",
+    "name": "pt-BR-AntonioNeural",
+    "language": "pt-BR",
+    "rate": "-4%",
+    "pitch": "+0Hz",
+    "tone": "Narrador masculino brasileiro, próximo e expressivo; linguagem atual, tensão crescente, pausas naturais e emoção sem tom solene.",
+    "requires_internet": true,
+    "allow_user_recording": true,
+    "gender": "male"
+  },
+  "core_question": "Como Daniel recupera o nome e reconstrói a vida depois de ser acusado para proteger o filho do dono?",
+  "parts": [
+    {
+      "number": 1,
+      "title": "O culpado perfeito",
+      "status": "scripted",
+      "episode": "h001-p01-injustica",
+      "hook": "O nome de Daniel aparece numa carga depois da demissão; Vitor interrompe a ligação com Júlia."
+    },
+    {
+      "number": 2,
+      "title": "O preço do silêncio",
+      "status": "planned",
+      "hook": "Mauro admite: Eu sei que não foi você. Mas eu não vou entregar meu filho."
+    },
+    {
+      "number": 3,
+      "title": "O valor que ninguém via",
+      "status": "planned",
+      "hook": "Daniel recebe uma declaração de Júlia que o incrimina e parece desmontar sua defesa."
+    },
+    {
+      "number": 4,
+      "title": "Agora é a minha vez",
+      "status": "planned",
+      "hook": "Após a reparação e o crescimento profissional, Mauro precisa contratar a empresa de Daniel.",
+      "closes_core_conflict": true
+    }
+  ]
+}

@@ -1,11 +1,5 @@
-# Episódios do Fio de Lume
+# Histórias e vídeos
 
-O canal está preparado para produzir a primeira história. Ainda não há episódio
-completo neste repositório.
+História ativa: [O funcionário que eles tentaram apagar](../historias/h001-o-funcionario/README.md), quatro partes.
 
-Cada pedido de vídeo cria uma pasta `ep-NNN-tema`, com roteiro, imagens, áudio,
-montagem e materiais de publicação. Os arquivos precisam passar por conferência
-técnica e revisão integral do vídeo antes de aparecerem como entregues aqui.
-
-[Ideias iniciais](../docs/pautas.md) ·
-[Modelo de episódio](../templates/episodio/README.md)
+[Parte 1 — roteiro](h001-p01-injustica/README.md). Nenhum vídeo desta nova história foi produzido. A história anterior da carta foi abandonada.

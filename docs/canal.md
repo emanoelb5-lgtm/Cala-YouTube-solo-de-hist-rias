@@ -27,9 +27,8 @@ de época ou uma imagem real não transforma um conto inventado em fato.
 
 ## Voz
 
-Thalita (`pt-BR-ThalitaMultilingualNeural`), em português brasileiro. O timbre
-aprovado permanece; a interpretação passa a ser próxima e narrativa. Velocidade
-inicial de −3%, ajustável dentro da mesma voz após ouvir o resultado. Não alterar
+Antonio (`pt-BR-AntonioNeural`), em português brasileiro. Narrador masculino, com linguagem atual e interpretação próxima. Velocidade
+inicial de −4%, ajustável dentro da mesma voz após ouvir o resultado. Não alterar
 o áudio para alcançar oito minutos: adaptar o texto e as pausas. Gravações de
 Emanuel são usadas quando fornecidas.
 

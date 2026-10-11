@@ -20,7 +20,7 @@ def inspect(config: dict) -> list[tuple[str, bool]]:
         ("Produção iniciada por mensagem no chat", config.get("mode") == "chat_command" and execution.get("trigger") == "user_message" and execution.get("production") == "interactive_workspace" and ai.get("auth_mode") == "chat_work"),
         ("Vídeo Full HD, 16:9 e 24 fps", video.get("width") == 1920 and video.get("height") == 1080 and video.get("aspect_ratio") == "16:9" and video.get("fps") == 24),
         ("Meta de oito minutos", video.get("duration_seconds") == 480),
-        ("Voz Thalita brasileira definida", voice.get("engine") == "edge_tts" and voice.get("language") == "pt-BR" and voice.get("name") == "pt-BR-ThalitaMultilingualNeural"),
+        ("Narrador masculino brasileiro definido", voice.get("engine") == "edge_tts" and voice.get("language") == "pt-BR" and voice.get("name") == "pt-BR-AntonioNeural" and voice.get("gender") == "male"),
         ("Entrega no repositório de histórias", delivery.get("destination") == "github" and delivery.get("repository") == "emanoelb5-lgtm/Cala-YouTube-solo-de-hist-rias" and delivery.get("publication_by") == "user"),
         ("Legendas fora da tela por padrão", video.get("subtitle_mode") == "none"),
         ("Modelo de história definido", section("storytelling").get("default_kind") == "original_fiction" and set(section("storytelling").get("allowed_kinds", [])) == {"original_fiction", "historical", "real_account"}),

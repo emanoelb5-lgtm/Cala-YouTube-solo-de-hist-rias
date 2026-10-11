@@ -1,0 +1,31 @@
+{
+  "status": "technically_validated",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24.0,
+    "duration_seconds": 506.041667,
+    "stream_duration_seconds": 506.041667,
+    "frames": 12145,
+    "codec": "h264",
+    "size_bytes": 32067970
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": 48000,
+    "channels": 2
+  },
+  "voice": "pt-BR-AntonioNeural",
+  "thumbnail_size": [
+    1672,
+    941
+  ],
+  "subtitle_cues": 94,
+  "chapters": 6,
+  "full_decode": "passed",
+  "subtitle_mode": "none",
+  "embedded_subtitle_streams": 0,
+  "youtube_upload": "manual",
+  "visual_review": "required_separately",
+  "story_kind": "original_fiction"
+}

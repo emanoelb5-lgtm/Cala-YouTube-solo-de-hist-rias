@@ -1,0 +1,55 @@
+{
+  "aspect_ratio": "16:9",
+  "characters": [
+    {
+      "name": "Daniel",
+      "age": 39,
+      "role": "Empregado injustiçado, responsável pelo estoque há quatorze anos",
+      "visual": "Pele morena, cabelo preto curto com poucos fios grisalhos, barba curta. Uniforme cinza e crachá no início; roupas simples em casa; camisa azul ao reconstruir a vida.",
+      "flaw": "Orgulhoso, inicialmente rejeita ajuda; precisa transformar a raiva em estratégia."
+    },
+    {
+      "name": "Mauro",
+      "age": 55,
+      "role": "Dono da distribuidora, protege o filho e compra o silêncio",
+      "visual": "Cabelo grisalho curto, camisa social clara, relógio e postura controlada."
+    },
+    {
+      "name": "Vitor",
+      "age": 28,
+      "role": "Filho do dono, gerente há quatro meses, responsável pelos desvios",
+      "visual": "Cabelo castanho curto, polo escura, celular quase sempre à mão."
+    },
+    {
+      "name": "Júlia",
+      "age": 31,
+      "role": "Assistente de compras, testemunha pressionada",
+      "visual": "Pele negra, cabelo cacheado preso, camisa azul da empresa e crachá.",
+      "arc": "Medo, silêncio, ajuda, pressão e coragem para corrigir a declaração."
+    },
+    {
+      "name": "Lara",
+      "age": 37,
+      "role": "Companheira de Daniel, apoio que também questiona sua teimosia",
+      "visual": "Pele morena, cabelo escuro preso de forma simples e roupa cotidiana."
+    },
+    {
+      "name": "Nina",
+      "age": 12,
+      "role": "Filha de Daniel",
+      "visual": "Cabelo escuro, roupa cotidiana e mochila de escola."
+    },
+    {
+      "name": "Sofia",
+      "age": 42,
+      "role": "Gerente de uma empresa cliente, avalia a competência de Daniel",
+      "visual": "Cabelo escuro curto, camisa de trabalho simples, tablet e agenda."
+    },
+    {
+      "name": "Beto",
+      "age": 45,
+      "role": "Profissional da transportadora, guarda os documentos das viagens",
+      "visual": "Boné cinza, camisa de motorista e colete de trabalho."
+    }
+  ]
+}

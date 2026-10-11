@@ -1,0 +1,25 @@
+{
+  "story_id": "h001-o-funcionario",
+  "part": 2,
+  "total_parts": 4,
+  "chronology": [
+    "Thursday evening: interrupted call and safe follow-up",
+    "Friday morning: Julia meeting and carrier documents",
+    "Friday afternoon: preserved copies and family bills",
+    "Friday late afternoon: Mauro agreement and admission"
+  ],
+  "key_records": {
+    "R0247": {
+      "actual": "Friday before dismissal, 17:42; legitimate supplier return",
+      "accusation": "Monday, 08:15 in internal report"
+    },
+    "new_load": {
+      "actual": "Thursday after dismissal, 18:48",
+      "internal_responsible": "Daniel",
+      "carrier_requester": "Vitor",
+      "changed_destination": "Rua das Palmeiras, 318, portão B"
+    }
+  },
+  "next_part": "O valor que ninguém via",
+  "final_part_resolves_injustice": true
+}

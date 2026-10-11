@@ -1,0 +1,79 @@
+{
+  "status": "technically_validated",
+  "channel": "Fio de Lume",
+  "title": "O chefe tentou comprar seu silêncio | O funcionário que eles tentaram apagar — Parte 2",
+  "alternative_titles": [
+    "O preço do silêncio | O funcionário que eles tentaram apagar — Parte 2",
+    "Os recibos mudaram tudo. Agora o chefe quer um acordo. | Parte 2"
+  ],
+  "summary": "Júlia consegue retomar o contato e explica por que o nome de Daniel continuou nos registros. Os documentos da transportadora revelam a viagem das caixas vermelhas e uma mudança de endereço. Quando Mauro o chama para conversar, Daniel precisa decidir quanto vale recuperar o próprio nome.\n\nParte 2 de 4 — O preço do silêncio.",
+  "story_kind": "original_fiction",
+  "fiction_notice": "História de ficção original. Personagens e acontecimentos são fictícios.",
+  "subtitle_mode": "none",
+  "language": "pt-BR",
+  "category_id": 24,
+  "publication_mode": "manual",
+  "tags": [
+    "Fio de Lume",
+    "história narrada",
+    "ficção original",
+    "injustiça no trabalho",
+    "empregado injustiçado",
+    "volta por cima",
+    "pixel art animada",
+    "suspense",
+    "drama",
+    "história em partes",
+    "narrador masculino"
+  ],
+  "hashtags": [
+    "#FioDeLume",
+    "#PixelArt",
+    "#HistoriasNarradas"
+  ],
+  "chapters": [
+    {
+      "start_seconds": 0,
+      "title": "A ligação interrompida"
+    },
+    {
+      "start_seconds": 55.625,
+      "title": "O que Júlia viu"
+    },
+    {
+      "start_seconds": 145.25,
+      "title": "Os documentos da viagem"
+    },
+    {
+      "start_seconds": 232.20833333333334,
+      "title": "A mudança de endereço"
+    },
+    {
+      "start_seconds": 329.7083333333333,
+      "title": "Contas e escolhas"
+    },
+    {
+      "start_seconds": 404.7916666666667,
+      "title": "A proposta de Mauro"
+    }
+  ],
+  "sources": [],
+  "credits": "História e roteiro: ficção original desenvolvida com Emanuel. Direção de cenas e animação: composição em camadas, com personagens, veículos, documentos, portas, telas e luz em movimento. Artes: imagens geradas por IA para esta produção; Lume pertence à identidade visual do canal. Narração sintética masculina: Antonio, pt-BR-AntonioNeural, em português brasileiro. Trilha e ambientes: composição sonora original desta produção. Montagem: Fio de Lume.",
+  "voice": "pt-BR-AntonioNeural",
+  "voice_gender": "male",
+  "story_id": "h001-o-funcionario",
+  "story_part": 2,
+  "story_total_parts": 4,
+  "production": {
+    "animation_shots": 75,
+    "animation_fps": 12,
+    "output_fps": 24,
+    "voice_rate": "+3%",
+    "subtitles_embedded": false,
+    "images_aspect_ratio": "16:9",
+    "part_title": "O preço do silêncio"
+  },
+  "description": "Júlia consegue retomar o contato e explica por que o nome de Daniel continuou nos registros. Os documentos da transportadora revelam a viagem das caixas vermelhas e uma mudança de endereço. Quando Mauro o chama para conversar, Daniel precisa decidir quanto vale recuperar o próprio nome.\n\nParte 2 de 4 — O preço do silêncio.\n\nCAPÍTULOS\n00:00 A ligação interrompida\n00:55 O que Júlia viu\n02:25 Os documentos da viagem\n03:52 A mudança de endereço\n05:29 Contas e escolhas\n06:44 A proposta de Mauro\n\nHistória de ficção original. Personagens e acontecimentos são fictícios.\n\nCRÉDITOS\nHistória e roteiro: ficção original desenvolvida com Emanuel. Direção de cenas e animação: composição em camadas, com personagens, veículos, documentos, portas, telas e luz em movimento. Artes: imagens geradas por IA para esta produção; Lume pertence à identidade visual do canal. Narração sintética masculina: Antonio, pt-BR-AntonioNeural, em português brasileiro. Trilha e ambientes: composição sonora original desta produção. Montagem: Fio de Lume.\n\n#FioDeLume #PixelArt #HistoriasNarradas\n",
+  "duration_seconds": 508.083333,
+  "video_sha256": "0bede0e552e60d825c9b881e1c05b3018cc16df728986b8b73265fb2c71c093d"
+}

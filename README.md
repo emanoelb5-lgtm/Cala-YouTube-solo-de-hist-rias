@@ -81,10 +81,10 @@ A conferência técnica não substitui assistir ao vídeo inteiro.
 
 [Episódios](videos/README.md) · [Modelo de episódio](templates/episodio/README.md)
 
-A primeira parte da história ativa está produzida. O vídeo, a miniatura e os materiais estão em [Parte 1 — O culpado perfeito](videos/h001-p01-injustica/README.md).
+As duas primeiras partes da história ativa estão produzidas. Vídeos, miniaturas e materiais: [Parte 1 — O culpado perfeito](videos/h001-p01-injustica/README.md) · [Parte 2 — O preço do silêncio](videos/h001-p02-silencio/README.md).
 
 ## Diretrizes atuais e primeira história ativa
 
 Linguagem contemporânea e acessível, narrador masculino e histórias instigantes em três ou quatro partes. Cada parte termina com um gancho; a última resolve o conflito antes de abrir uma possibilidade de futuro.
 
-**O funcionário que eles tentaram apagar** está estruturada em quatro partes. [Plano editorial](historias/h001-o-funcionario/plano-editorial.md) · [Roteiro da parte 1](historias/h001-o-funcionario/narracao-parte-01.txt) · [Diretrizes](docs/diretrizes-do-canal.md). **A parte 1 foi produzida em pixel art animada, com narração masculina, 8min26s e Full HD.** [Entrega da parte 1](videos/h001-p01-injustica/README.md). A série anterior da carta está abandonada.
+**O funcionário que eles tentaram apagar** está estruturada em quatro partes. [Plano editorial](historias/h001-o-funcionario/plano-editorial.md) · [Roteiro da parte 1](historias/h001-o-funcionario/narracao-parte-01.txt) · [Diretrizes](docs/diretrizes-do-canal.md). **Partes 1 e 2 produzidas em pixel art animada, com narração masculina e Full HD.** [Parte 1, 8min26s](videos/h001-p01-injustica/README.md) · [Parte 2, 8min28s](videos/h001-p02-silencio/README.md). A série anterior da carta está abandonada.

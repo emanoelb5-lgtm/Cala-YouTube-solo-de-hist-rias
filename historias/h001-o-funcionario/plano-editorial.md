@@ -1,6 +1,6 @@
 # O funcionário que eles tentaram apagar
 
-Ficção original contemporânea do Fio de Lume. Primeira história ativa após o abandono da série da carta. Quatro partes, um vídeo por parte. Este arquivo é planejamento editorial; nenhum novo MP4 foi produzido.
+Ficção original contemporânea do Fio de Lume. Primeira história ativa após o abandono da série da carta. Quatro partes, um vídeo por parte. Este arquivo registra o planejamento e a continuidade. As [partes 1](../../videos/h001-p01-injustica/README.md) e [2](../../videos/h001-p02-silencio/README.md) estão produzidas em MP4, com narração masculina e pixel art animada.
 
 ## Premissa
 
@@ -80,4 +80,4 @@ Pixel art animada em 16:9. Galpão atual com paletes, caixas, quadro de metas e 
 
 ## Situação dos materiais
 
-História estruturada e roteiro da parte 1 escrito. As partes 2, 3 e 4 têm arcos, revelações e ganchos definidos. Imagens, narração integral, animação e MP4 desta nova história serão produzidos na etapa de vídeo. A amostra de voz, quando disponível, é um trecho e deve ser identificada como amostra.
+História estruturada em quatro partes. Partes 1 e 2 produzidas em Full HD, com narração masculina integral, artes, animação, miniatura e materiais de publicação. Partes 3 e 4 têm arcos e ganchos definidos. A amostra de voz permanece identificada como trecho, separada das narrações integrais dos episódios.

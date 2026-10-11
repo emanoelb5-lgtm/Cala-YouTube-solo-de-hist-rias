@@ -1,0 +1,77 @@
+{
+  "created_at": "2026-10-11",
+  "style": "Contemporary Brazilian cinematic pixel art; consistent faces, deliberate square clusters and layered animation.",
+  "generated_assets": [
+    {
+      "asset": "assets/cenarios-casa.png",
+      "sha256": "abca60eac603fe0515911994779720230c5802e0fbc5e5e0637966a635118e52",
+      "origin": "imagegen_for_part_2",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/cenarios-investigacao.png",
+      "sha256": "a462baeb6bb004a1817610db5de0c30b1234bdc30c9c753abe75973f9559fb6c",
+      "origin": "imagegen_for_part_2",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/cenarios-trabalho.png",
+      "sha256": "4c6f33336f01269169e55a61d906a0adcacf757cb0aa02d75f4741c5130d45ef",
+      "origin": "part_1_continuity",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/lume.png",
+      "sha256": "e92251d7d003eace799fde651adfeef93b103cf7da55c698a9ff2b0f5dc67ba4",
+      "origin": "channel_identity",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-acordo.png",
+      "sha256": "e9b929ad6f82a1ce4c658861b44281fd8d3468832b01bd9e28a7395f65c43593",
+      "origin": "imagegen_for_part_2",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-casa.png",
+      "sha256": "5f2d4ecd6d30ee1335a13df35a8e81eac346ee732e7dc0e4eddf68fce26df9ee",
+      "origin": "part_1_continuity",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-investigacao.png",
+      "sha256": "7f80e496096ae069b3c58bbb1b75e8b774ef3598ccf810eb8d82464c7cd43d59",
+      "origin": "imagegen_for_part_2",
+      "canvas": "16:9"
+    },
+    {
+      "asset": "assets/personagens-trabalho.png",
+      "sha256": "e488af3b946a47ccc369d22b8df72050a0b217967b4ecf27addade613ddb27ab",
+      "origin": "part_1_continuity",
+      "canvas": "16:9"
+    }
+  ],
+  "directions": [
+    {
+      "asset": "assets/personagens-investigacao.png",
+      "summary": "Transparent 16:9 atlas, 6×2: four Beto poses with grey cap and olive vest; Daniel blue button-up standing, receipt, phone, refusal and four walking phases."
+    },
+    {
+      "asset": "assets/personagens-acordo.png",
+      "summary": "Transparent 16:9 atlas, 4×2: four Daniel seated poses and four Mauro seated poses; document handoff, refusal and gathering."
+    },
+    {
+      "asset": "assets/cenarios-investigacao.png",
+      "summary": "16:9 2×2 atlas: carrier dispatch office, depot, morning café and distributor entrance. Empty foreground for animated people and vehicles."
+    },
+    {
+      "asset": "assets/cenarios-casa.png",
+      "summary": "Reference-based edit: preserve furniture geometry; daylight for dining and computer room, original night for laundry and purchasing office."
+    },
+    {
+      "asset": "miniatura.png",
+      "summary": "16:9 finished thumbnail, matching Daniel and Mauro; exact headline QUANTO VALE SEU SILÊNCIO?, Fio de Lume, PARTE 2 DE 4 and fine gold border."
+    }
+  ],
+  "note": "Directions are production summaries. Original atlas images remain unchanged within the episode."
+}
